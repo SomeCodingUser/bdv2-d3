@@ -1,0 +1,725 @@
+Kreditgruppe	Glaeubiger	Darlehensnummer und Geschaeftszeichen	Laufzeit	Art	TA	Verwendung	"urspruengl. Schuld"	"Urspruengl. Schuld aufgeteilt"	"Stand am Jahresanfang"	"Jahresanfang aufgeteilt"	"Jahresanfang aufgeteilt"	"Zinsen und Nebenkosten"	"Zinsen u. NK aufgeteilt"	"Zinsen u. NK aufgeteilt"	Tilgung	"Tilgung aufgeteilt"	"Tilgung aufgeteilt"	Zuzaehlung	"Zuzaehlung aufgeteilt"	"Zuzaehlung aufgeteilt"	"Stand am Jahresende"	"Jahresende aufgeteilt"	"Jahresende aufgeteilt"	Ersaetze	"Ersaetze aufgeteilt"	"Ersaetze aufgeteilt"	TA
+Schuldenaufnahme Bund	Bund	Bund    RAM Darlehen    (902-06/05/07)	Laufzeit von 1942 bis 2023	4	4890	Foerderung des Wohnbaues und Altwohnhausbesitzes	91.749,45	91.749,45	11.503,79	11.503,79	11.500,00	110,74	110,74	100	1.724,24	1.724,24	1.800,00	0			9.779,55	9.779,55	9.700,00	0			4890
+Schuldenaufnahme Bund	Bund	Bund     Darl.0 7/4  (902-06/05/05)	Laufzeit von 1942 bis 2042	4	4890	Foerderung des Wohnbaues und Altwohnhausbesitzes	14.171,20	14.171,20	3.684,39	3.684,39	3.700,00	0			141,72	141,72	100	0			3.542,67	3.542,67	3.600,00	0			4890
+	Bund Ergebnis						105.920,65	105.920,65	15.188,18	15.188,18	15.200,00	110,74	110,74	100	1865,96	1.865,96	1.900,00	0	0	0	13.322,22	13.322,22	13.300,00	0	0	0	
+Schuldenaufnahme Land	Land Ooe	Land    BA-17  BauW-III-410050/148-1995/KA/SH  (902-06/18/61)	Laufzeit von 2000 bis 2023	4	9140	Beteiligungen	222.624,75	222.624,75	222.624,75	222.624,75	222.600,00	0						0			222.624,75	222.624,75	222.600,00	0			9140
+Schuldenaufnahme Land	Land Ooe	Land    BA-18  BauW-III-410050/209-1998/KA/SH  (902-06/18/60)	Laufzeit von 1999 bis 2024	4	9140	Beteiligungen	348.502,86	348.502,86	348.502,86	348.502,86	348.500,00	0						0			348.502,86	348.502,86	348.500,00	0			9140
+Schuldenaufnahme Land	Land Ooe	Land    BA-19  BauW-III-410050/274-2001/KA/SH  (902-06/18/62)	Laufzeit von 2001 bis 2023	4	9140	Beteiligungen	105.375,61	105.375,61	102.535,00	102.535,00	102.500,00	0						0			102.535,00	102.535,00	102.500,00	0			9140
+Schuldenaufnahme Land	Land Ooe	Land    BA-25  Gem-324010/GR-28.10.2004  (902-06/18/63)	Laufzeit von 2008 bis 2028	4	9140	Beteiligungen	21.102,00	21.102,00	21.102,00	21.102,00	21.100,00	0						0			21.102,00	21.102,00	21.100,00	0			9140
+	Land Ooe Ergebnis						697.605,22	697.605,22	694.764,61	694.764,61	694.700,00	0	0	0	0	0	0	0	0	0	694.764,61	694.764,61	694.700,00	0	0	0	
+Finanzunternehmen	Allgemeine Sparkasse Bank AG	ASPK 00062-200953     (902-06/03/36)	Laufzeit von 1997 bis 2017	1	6510	Sonstige Schienenwege	1.344.447,43	835.737,59	102.595,85	63.775,80	63.800,00	76,93	47,82		102.595,85	63.775,80	63.800,00	0			0		0				6510
+Finanzunternehmen	Allgemeine Sparkasse Bank AG			1	8150	oeffentliche Anlagen		508.709,84		38.820,05	38.800,00		29,11			38.820,05	38.800,00						0				8150
+Finanzunternehmen	Allgemeine Sparkasse Bank AG	IBAN AT57 2032 0321 0739 2204     (902 06 03 42)	Laufzeit von 2015 bis 2035	2	8530	Wohn- und Geschaeftsgebaeude	12.498.700,00	519.800,00	12.498.700,00	103.700,00	103.700,00	144.337,42	1.197,55	1.200,00	0			0			12.498.700,00	103.700,00	103.700,00	0			8530
+Finanzunternehmen	Allgemeine Sparkasse Bank AG			2	8782	Seniorenzentren der Stadt Linz		5.442.500,00		4.825.000,00	4.825.000,00		55.720,04	55.700,00								4.825.000,00	4.825.000,00				8782
+Finanzunternehmen	Allgemeine Sparkasse Bank AG			1	8790	Linz AG		6.134.500,00		3.870.000,00	3.870.000,00		44.691,51	44.700,00								3.870.000,00	3.870.000,00				8790
+Finanzunternehmen	Allgemeine Sparkasse Bank AG			1	8994	Allgemeines oeffentliches Krankenhaus d.Stadt Linz		401.900,00		3.700.000,00	3.700.000,00		42.728,32	42.700,00								3.700.000,00	3.700.000,00				8994
+Finanzunternehmen	Allgemeine Sparkasse Bank AG	IBAN AT73 2032 0321 0730 6362    ( 902 06/03/41)	Laufzeit von 2013 bis 2023	2	8994	Allgemeines oeffentliches Krankenhaus d.Stadt Linz	4.000.000,00	4.000.000,00	3.111.111,12	3.111.111,12	3.111.100,00	24.021,85	24.021,85	24.000,00	444.444,44	444.444,44	444.400,00	0			2.666.666,68	2.666.666,68	2.666.700,00	0			8994
+Finanzunternehmen	Allgemeine Sparkasse Bank AG	ASPK  32017-278601   (902-06-03/40)	Laufzeit von 2013 bis 2023	2	8530	Wohn- und Geschaeftsgebaeude	10.178.200,00	52.619,60	8.905.925,00	701.573,92	701.600,00	222.970,43	17.564,74	17.600,00	1.272.275,00	100.224,85	100.200,00	0			7.633.650,00	601.349,07	601.400,00	0			8530
+Finanzunternehmen	Allgemeine Sparkasse Bank AG			2	8590	Maerkte		801.798,76		49.810,56	49.800,00		1.247,07	1.200,00		7.115,79	7.100,00					42.694,77	42.700,00				8590
+Finanzunternehmen	Allgemeine Sparkasse Bank AG			1	8782	Seniorenzentren der Stadt Linz		56.926,36		838.708,09	838.700,00		20.998,06	21.000,00		119.815,44	119.800,00					718.892,65	718.900,00				8782
+Finanzunternehmen	Allgemeine Sparkasse Bank AG			1	8790	Linz AG		2.030.223,53		5.894.552,78	5.894.600,00		147.577,14	147.600,00		842.078,97	842.100,00					5.052.473,81	5.052.500,00				8790
+Finanzunternehmen	Allgemeine Sparkasse Bank AG			1	8993	Immobilien Linz GmbH		6.736.631,75		437.500,00	437.500,00		10.953,33	11.000,00		62.500,00	62.500,00					375.000,00	375.000,00				8993
+Finanzunternehmen	Allgemeine Sparkasse Bank AG			1	9500	Aufgenommene Darlehen,Schuldendienst		500.000,00		983.779,65	983.800,00		24.630,09	24.600,00		140.539,95	140.500,00					843.239,70	843.300,00				9500
+Finanzunternehmen	Allgemeine Sparkasse Bank AG	ASPK  32107-265766   (902-06/03/39)	Laufzeit von 2013 bis 2023	1	6122	Bruecken	10.000.000,00	1.651.000,00	7.647.058,80	1.262.529,41	1.262.500,00	166.676,99	27.518,37	27.500,00	1.176.470,60	194.235,30	194.200,00	0			6.470.588,20	1.068.294,11	1.068.300,00	0			6122
+Finanzunternehmen	Allgemeine Sparkasse Bank AG			1	6290	"Allgemeiner Wasserbau, sonstige Mazslig;nahmen"		34.000,00		26.000,00	26.000,00		566,7	600		4.000,00	4.000,00					22.000,00	22.000,00				6290
+Finanzunternehmen	Allgemeine Sparkasse Bank AG			1	6300	Hochwasserregulierung bei Bundesfluessen		768.000,00		587.294,12	587.300,00		12.800,79	12.800,00		90.352,94	90.400,00					496.941,17	496.900,00				6300
+Finanzunternehmen	Allgemeine Sparkasse Bank AG			1	6400	"Einrichtungen und Mazslig;nahmen nach der StVO"		1.025.000,00		783.823,53	783.800,00		17.084,39	17.100,00		120.588,24	120.600,00					663.235,29	663.200,00				6400
+Finanzunternehmen	Allgemeine Sparkasse Bank AG			1	6510	Sonstige Schienenwege		638.000,00		487.882,35	487.900,00		10.633,99	10.600,00		75.058,82	75.100,00					412.823,53	412.800,00				6510
+Finanzunternehmen	Allgemeine Sparkasse Bank AG			1	8150	oeffentliche Anlagen		1.430.000,00		1.093.529,41	1.093.500,00		23.834,81	23.800,00		168.235,30	168.200,00					925.294,11	925.300,00				8150
+Finanzunternehmen	Allgemeine Sparkasse Bank AG			1	9140	Beteiligungen		4.454.000,00		3.405.999,98	3.406.000,00		74.237,94	74.200,00		524.000,00	524.000,00					2.881.999,99	2.882.000,00				9140
+	Allgemeine Sparkasse Bank AG Ergebnis						38021347,43	38.021.347,43	32265390,77	32.265.390,77	32.265.400,00	558083,62	558.083,62	557.900,00	2995785,89	2.995.785,89	2.995.700,00	0	0	0	29269604,88	29.269.604,88	29.269.700,00	0	0	0	
+Finanzunternehmen	Austrian Anadi Bank	Schuldscheindarlehen 22.1.2015 (902 06 22 05)	Laufzeit von 2015 bis 2055	2	8950	Design Center Linz	15.000.000,00	3.930.564,17	15.000.000,00	3.930.564,17	3.930.600,00	427.500,00	112.021,08	112.000,00	0						15.000.000,00	3.930.564,17	3.930.600,00	0			8950
+Finanzunternehmen	Austrian Anadi Bank			1	9140	Beteiligungen		5.414.781,90		5.414.781,90	5.414.800,00		154.321,28	154.300,00								5.414.781,90	5.414.800,00				9140
+Finanzunternehmen	Austrian Anadi Bank			1	9500	Aufgenommene Darlehen,Schuldendienst		75.000,00		75.000,00	75.000,00		2.137,50	2.100,00								75.000,00	75.000,00				9500
+Finanzunternehmen	Austrian Anadi Bank			1	9510	Aufgenommene Anleihen,Schuldendienst		5.579.653,93		5.579.653,93	5.579.700,00		159.020,14	159.000,00								5.579.653,93	5.579.700,00				9510
+Finanzunternehmen	Austrian Anadi Bank	Schuldscheindarlehen 28.8.2014  (902 06 22 03)	Laufzeit von 2014 bis 2039	1	6400	"Einrichtungen und Mazslig;nahmen nach der StVO"	5.000.000,00	897.183,19	5.000.000,00	897.183,19	897.200,00	150.000,00	26.915,50	26.900,00	0						5.000.000,00	897.183,19	897.200,00	0			6400
+Finanzunternehmen	Austrian Anadi Bank			1	6510	Sonstige Schienenwege		409.859,47		409.859,47	409.900,00		12.295,78	12.300,00								409.859,47	409.900,00				6510
+Finanzunternehmen	Austrian Anadi Bank			1	7890	Foerderung von Handel, Gewerbe und Industrie		1.208.804,25		1.208.804,25	1.208.800,00		36.264,13	36.300,00								1.208.804,25	1.208.800,00				7890
+Finanzunternehmen	Austrian Anadi Bank			1	8120	WC-Anlagen		307.393,98		307.393,98	307.400,00		9.221,82	9.200,00								307.393,98	307.400,00				8120
+Finanzunternehmen	Austrian Anadi Bank			1	8160	oeffentliche Beleuchtung und oeffentliche Uhren		1.536.971,16		1.536.971,16	1.537.000,00		46.109,13	46.100,00								1.536.971,16	1.537.000,00				8160
+Finanzunternehmen	Austrian Anadi Bank			1	8400	Grundbesitz		614.787,95		614.787,95	614.800,00		18.443,64	18.400,00								614.787,95	614.800,00				8400
+Finanzunternehmen	Austrian Anadi Bank			1	9500	Aufgenommene Darlehen,Schuldendienst		25.000,00		25.000,00	25.000,00		750	800								25.000,00	25.000,00				9500
+Finanzunternehmen	Austrian Anadi Bank	Schuldscheindarlehen 7.5.2015  (902 06 22 07)	Laufzeit von 2015 bis 2035	1	290	Amtsgebaeude	6.000.000,00	129.500,00	5.700.000,00	123.025,00	123.000,00	141.360,00	3.051,02	3.100,00	300.000,00	6.475,00	6.500,00	0			5.400.000,00	116.550,00	116.500,00	0			290
+Finanzunternehmen	Austrian Anadi Bank			1	311	Verkehrsplanung		35.000,00		33.250,00	33.300,00		824,6	800		1.750,00	1.800,00					31.500,00	31.500,00				311
+Finanzunternehmen	Austrian Anadi Bank			1	1790	Katastrophenschutz		30.000,00		28.500,00	28.500,00		706,8	700		1.500,00	1.500,00					27.000,00	27.000,00				1790
+Finanzunternehmen	Austrian Anadi Bank			1	2800	Foerderung von Universitaeten und Hochschulen		308.400,00		292.980,00	293.000,00		7.265,90	7.300,00		15.420,00	15.400,00					277.560,00	277.600,00				2800
+Finanzunternehmen	Austrian Anadi Bank			1	2890	Naturkundliche Station		90.000,00		85.500,00	85.500,00		2.120,40	2.100,00		4.500,00	4.500,00					81.000,00	81.000,00				2890
+Finanzunternehmen	Austrian Anadi Bank			1	5010	Technik und Umwelt		388.000,00		368.600,00	368.600,00		9.141,28	9.100,00		19.400,00	19.400,00					349.200,00	349.200,00				5010
+Finanzunternehmen	Austrian Anadi Bank			1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"		4.000.000,00		3.800.000,00	3.800.000,00		94.240,00	94.200,00		200.000,00	200.000,00					3.600.000,00	3.600.000,00				6121
+Finanzunternehmen	Austrian Anadi Bank			1	8120	WC-Anlagen		85.000,00		80.750,00	80.800,00		2.002,60	2.000,00		4.250,00	4.300,00					76.500,00	76.500,00				8120
+Finanzunternehmen	Austrian Anadi Bank			1	8140	"Strazslig;enreinigung"		521.500,00		495.425,00	495.400,00		12.286,54	12.300,00		26.075,00	26.100,00					469.350,00	469.300,00				8140
+Finanzunternehmen	Austrian Anadi Bank			1	8151	Kinderspielplaetze		102.600,00		97.470,00	97.500,00		2.417,26	2.400,00		5.130,00	5.100,00					92.340,00	92.400,00				8151
+Finanzunternehmen	Austrian Anadi Bank			1	8160	oeffentliche Beleuchtung und oeffentliche Uhren		310.000,00		294.500,00	294.500,00		7.303,60	7.300,00		15.500,00	15.500,00					279.000,00	279.000,00				8160
+	Austrian Anadi Bank Ergebnis						26000000	26.000.000,00	25700000	25.700.000,00	25.700.300,00	718860	718.860,00	718.700,00	300000	300.000,00	300.100,00	0	0	0	25400000	25.400.000,00	25.400.200,00	0	0	0	
+Finanzunternehmen	BAWAG - PSK	Bawag     00001-156-600           (902-06/12/14)	Laufzeit von 2000 bis 2021	1	290	Amtsgebaeude	25.435.491,96	1.090.092,51	6.659.703,58	285.415,87	285.400,00	3.188,18	136,64	100	1.478.945,94	63.383,40	63.400,00	0			5.180.757,64	222.032,47	222.000,00	0			290
+Finanzunternehmen	BAWAG - PSK			1	2101	Allgemeinbildende Pflichtschulen -Gebaeudemanagement		726.728,34		190.277,24	190.300,00		91,09	100		42.255,60	42.300,00					148.021,65	148.000,00				2101
+Finanzunternehmen	BAWAG - PSK			1	2290	"Sonst.Einrichtungen u.Mazslig;nahmen-berufsbildender Unterricht"		726.728,34		190.277,24	190.300,00		91,09	100		42.255,60	42.300,00					148.021,65	148.000,00				2290
+Finanzunternehmen	BAWAG - PSK			1	2500	Schuelerhorte		581.382,67		152.221,80	152.200,00		72,87	100		33.804,48	33.800,00					118.417,32	118.400,00				2500
+Finanzunternehmen	BAWAG - PSK			1	2690	Koerperliche Ertuechtigung		726.728,34		190.277,24	190.300,00		91,09	100		42.255,60	42.300,00					148.021,65	148.000,00				2690
+Finanzunternehmen	BAWAG - PSK			1	4890	Foerderung des Wohnbaues und Altwohnhausbesitzes		1.090.092,51		285.415,87	285.400,00		136,64	100		63.383,40	63.400,00					222.032,47	222.000,00				4890
+Finanzunternehmen	BAWAG - PSK			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		10.028.851,12		2.625.825,98	2.625.800,00		1.257,05	1.300,00		583.127,26	583.100,00					2.042.698,73	2.042.700,00				6120
+Finanzunternehmen	BAWAG - PSK			1	6510	Sonstige Schienenwege		3.924.333,05		1.027.497,13	1.027.500,00		491,89	500		228.180,23	228.200,00					799.316,89	799.300,00				6510
+Finanzunternehmen	BAWAG - PSK			1	8160	oeffentliche Beleuchtung und oeffentliche Uhren		726.728,34		190.277,24	190.300,00		91,09	100		42.255,60	42.300,00					148.021,65	148.000,00				8160
+Finanzunternehmen	BAWAG - PSK			2	8782	Seniorenzentren der Stadt Linz		5.813.826,74		1.522.217,97	1.522.200,00		728,73	700		338.044,77	338.000,00					1.184.173,16	1.184.200,00				8782
+Finanzunternehmen	BAWAG - PSK	Bawag     00540-012-156          (902-06/12/13)	Laufzeit von 2007 bis 2018	1	160	Informationstechnologie	23.000.000,00	500.000,00	3.450.000,00	75.000,00	75.000,00	1.019,67	22,17		2.300.000,00	50.000,00	50.000,00	0			1.150.000,00	25.000,00	25.000,00	0			160
+Finanzunternehmen	BAWAG - PSK			1	610	Sonstige Subventionen		1.100.000,00		165.000,00	165.000,00		48,77			110.000,00	110.000,00					55.000,00	55.000,00				610
+Finanzunternehmen	BAWAG - PSK			1	2290	"Sonst.Einrichtungen u.Mazslig;nahmen-berufsbildender Unterricht"		500.000,00		75.000,00	75.000,00		22,17			50.000,00	50.000,00					25.000,00	25.000,00				2290
+Finanzunternehmen	BAWAG - PSK			1	2690	Koerperliche Ertuechtigung		600.000,00		90.000,00	90.000,00		26,6			60.000,00	60.000,00					30.000,00	30.000,00				2690
+Finanzunternehmen	BAWAG - PSK			1	2700	Volkshochschule Linz		2.600.000,00		390.000,00	390.000,00		115,27	100		260.000,00	260.000,00					130.000,00	130.000,00				2700
+Finanzunternehmen	BAWAG - PSK			1	2800	Foerderung von Universitaeten und Hochschulen		450.000,00		67.500,00	67.500,00		19,95			45.000,00	45.000,00					22.500,00	22.500,00				2800
+Finanzunternehmen	BAWAG - PSK			1	3290	"Sonst.Einrichtungen u.Mazslig;nahmen-Musik u.darstellende Kunst"		1.000.000,00		150.000,00	150.000,00		44,33			100.000,00	100.000,00					50.000,00	50.000,00				3290
+Finanzunternehmen	BAWAG - PSK			1	3400	Museen der Stadt Linz		1.000.000,00		150.000,00	150.000,00		44,33			100.000,00	100.000,00					50.000,00	50.000,00				3400
+Finanzunternehmen	BAWAG - PSK			1	3630	Altstadterhaltung und Ortsbildpflege		700.000,00		105.000,00	105.000,00		31,03			70.000,00	70.000,00					35.000,00	35.000,00				3630
+Finanzunternehmen	BAWAG - PSK			1	4290	Volkshaeuser		400.000,00		60.000,00	60.000,00		17,73			40.000,00	40.000,00					20.000,00	20.000,00				4290
+Finanzunternehmen	BAWAG - PSK			1	4890	Foerderung des Wohnbaues und Altwohnhausbesitzes		300.000,00		45.000,00	45.000,00		13,3			30.000,00	30.000,00					15.000,00	15.000,00				4890
+Finanzunternehmen	BAWAG - PSK			1	6100	"Bundesstrazslig;en"		400.000,00		60.000,00	60.000,00		17,73			40.000,00	40.000,00					20.000,00	20.000,00				6100
+Finanzunternehmen	BAWAG - PSK			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		1.800.000,00		270.000,00	270.000,00		79,8	100		180.000,00	180.000,00					90.000,00	90.000,00				6120
+Finanzunternehmen	BAWAG - PSK			1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"		5.000.000,00		750.000,00	750.000,00		221,67	200		500.000,00	500.000,00					250.000,00	250.000,00				6121
+Finanzunternehmen	BAWAG - PSK			1	6122	Bruecken		400.000,00		60.000,00	60.000,00		17,73			40.000,00	40.000,00					20.000,00	20.000,00				6122
+Finanzunternehmen	BAWAG - PSK			1	6300	Hochwasserregulierung bei Bundesfluessen		150.000,00		22.500,00	22.500,00		6,65			15.000,00	15.000,00					7.500,00	7.500,00				6300
+Finanzunternehmen	BAWAG - PSK			1	6400	"Einrichtungen und Mazslig;nahmen nach der StVO"		250.000,00		37.500,00	37.500,00		11,08			25.000,00	25.000,00					12.500,00	12.500,00				6400
+Finanzunternehmen	BAWAG - PSK			1	7890	Foerderung von Handel, Gewerbe und Industrie		200.000,00		30.000,00	30.000,00		8,87			20.000,00	20.000,00					10.000,00	10.000,00				7890
+Finanzunternehmen	BAWAG - PSK			1	8140	"Strazslig;enreinigung"		100.000,00		15.000,00	15.000,00		4,43			10.000,00	10.000,00					5.000,00	5.000,00				8140
+Finanzunternehmen	BAWAG - PSK			1	8150	oeffentliche Anlagen		1.100.000,00		165.000,00	165.000,00		48,77			110.000,00	110.000,00					55.000,00	55.000,00				8150
+Finanzunternehmen	BAWAG - PSK			1	8151	Kinderspielplaetze		150.000,00		22.500,00	22.500,00		6,65			15.000,00	15.000,00					7.500,00	7.500,00				8151
+Finanzunternehmen	BAWAG - PSK			1	8160	oeffentliche Beleuchtung und oeffentliche Uhren		700.000,00		105.000,00	105.000,00		31,03			70.000,00	70.000,00					35.000,00	35.000,00				8160
+Finanzunternehmen	BAWAG - PSK			2	8530	Wohn- und Geschaeftsgebaeude		900.000,00		135.000,00	135.000,00		39,9			90.000,00	90.000,00					45.000,00	45.000,00				8530
+Finanzunternehmen	BAWAG - PSK			2	8590	Maerkte		1.000.000,00		150.000,00	150.000,00		44,33			100.000,00	100.000,00					50.000,00	50.000,00				8590
+Finanzunternehmen	BAWAG - PSK			2	8950	Design Center Linz		100.000,00		15.000,00	15.000,00		4,43			10.000,00	10.000,00					5.000,00	5.000,00				8950
+Finanzunternehmen	BAWAG - PSK			2	8994	Allgemeines oeffentliches Krankenhaus d.Stadt Linz		500.000,00		75.000,00	75.000,00		22,17			50.000,00	50.000,00					25.000,00	25.000,00				8994
+Finanzunternehmen	BAWAG - PSK			1	9140	Beteiligungen		1.100.000,00		165.000,00	165.000,00		48,78			110.000,00	110.000,00					55.000,00	55.000,00				9140
+Finanzunternehmen	BAWAG - PSK	Bawag  IBAN AT89 6000 0005 4001 6755  (902 06 30 00)	Laufzeit von 2008 bis 2018	1	8994	Allgemeines oeffentliches Krankenhaus d.Stadt Linz	10.000.000,00	10.000.000,00	10.000.000,00	10.000.000,00	10.000.000,00	3.447,22	3.447,22	3.400,00	0			0			10.000.000,00	10.000.000,00	10.000.000,00	0			8994
+	BAWAG - PSK Ergebnis						58.435.491,96	58.435.491,96	20.109.703,58	20.109.703,58	20.109.700,00	7.655,07	7.655,07	7.000,00	3778945,94	3.778.945,94	3.779.100,00	0	0	0	16.330.757,64	16.330.757,64	16.330.600,00	0	0	0	
+Finanzunternehmen	KA Finanz AG	KA Finanz AG     114 305                   (902-06/07/11)	Laufzeit von 2001 bis 2025	2	3291	Linzer Veranstaltungsgesellschaft	8.125.129,84	135.800,00	5.525.088,30	92.344,00	92.300,00	78.817,82	1.317,33	1.300,00	650.010,38	10.864,00	10.900,00	0			4.875.077,92	81.480,00	81.400,00	0			3291
+Finanzunternehmen	KA Finanz AG			1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"		2.082.266,69		1.415.941,35	1.415.900,00		20.199,03	20.200,00		166.581,33	166.600,00					1.249.360,02	1.249.300,00				6121
+Finanzunternehmen	KA Finanz AG			1	6400	"Einrichtungen und Mazslig;nahmen nach der StVO"		211.633,08		143.910,49	143.900,00		2.052,95	2.100,00		16.930,65	16.900,00					126.979,85	127.000,00				6400
+Finanzunternehmen	KA Finanz AG			1	7890	Foerderung von Handel, Gewerbe und Industrie		973.512,17		661.988,28	662.000,00		9.443,55	9.400,00		77.880,97	77.900,00					584.107,30	584.100,00				7890
+Finanzunternehmen	KA Finanz AG			2	8530	Wohn- und Geschaeftsgebaeude		542.733,34		369.058,67	369.100,00		5.264,78	5.300,00		43.418,67	43.400,00					325.640,01	325.700,00				8530
+Finanzunternehmen	KA Finanz AG			2	8532	Wohn- und Geschaeftsgebaeude nach MRG		34.066,67		23.165,34	23.200,00		330,46	300		2.725,33	2.700,00					20.440,00	20.500,00				8532
+Finanzunternehmen	KA Finanz AG			2	8782	Seniorenzentren der Stadt Linz		3.213.932,34		2.185.473,99	2.185.500,00		31.176,75	31.200,00		257.114,58	257.100,00					1.928.359,41	1.928.400,00				8782
+Finanzunternehmen	KA Finanz AG			1	9140	Beteiligungen		931.185,55		633.206,18	633.200,00		9.032,97	9.000,00		74.494,85	74.500,00					558.711,33	558.700,00				9140
+Finanzunternehmen	KA Finanz AG	KA Finanz AG      114 324                   (902-06/07/12)	Laufzeit von 2002 bis 2018	1	1620	Berufsfeuerwehr	6.000.000,00	500.000,00	600.000,00	50.000,00	50.000,00	17.542,78	1.461,90	1.500,00	400.000,00	33.333,33	33.300,00	0			200.000,00	16.666,67	16.700,00	0			1620
+Finanzunternehmen	KA Finanz AG			2	3291	Linzer Veranstaltungsgesellschaft		200.000,00		20.000,00	20.000,00		584,75	600		13.333,33	13.300,00					6.666,67	6.700,00				3291
+Finanzunternehmen	KA Finanz AG			1	5230	Laermbekaempfung		600.000,00		60.000,00	60.000,00		1.754,28	1.800,00		40.000,00	40.000,00					20.000,00	20.000,00				5230
+Finanzunternehmen	KA Finanz AG			1	6100	"Bundesstrazslig;en"		1.600.000,00		160.000,00	160.000,00		4.678,07	4.700,00		106.666,67	106.700,00					53.333,33	53.300,00				6100
+Finanzunternehmen	KA Finanz AG			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		1.000.000,00		100.000,00	100.000,00		2.923,80	2.900,00		66.666,67	66.700,00					33.333,33	33.300,00				6120
+Finanzunternehmen	KA Finanz AG			1	7890	Foerderung von Handel, Gewerbe und Industrie		900.000,00		90.000,00	90.000,00		2.631,42	2.600,00		60.000,00	60.000,00					30.000,00	30.000,00				7890
+Finanzunternehmen	KA Finanz AG			1	8150	oeffentliche Anlagen		500.000,00		50.000,00	50.000,00		1.461,90	1.500,00		33.333,33	33.300,00					16.666,67	16.700,00				8150
+Finanzunternehmen	KA Finanz AG			2	8532	Wohn- und Geschaeftsgebaeude nach MRG		100.000,00		10.000,00	10.000,00		292,38	300		6.666,67	6.700,00					3.333,33	3.300,00				8532
+Finanzunternehmen	KA Finanz AG			2	8994	Allgemeines oeffentliches Krankenhaus d.Stadt Linz		600.000,00		60.000,00	60.000,00		1.754,28	1.800,00		40.000,00	40.000,00					20.000,00	20.000,00				8994
+Finanzunternehmen	KA Finanz AG	KA Finanz AG      114 643                   (902-06/07/14)	Laufzeit von 2009 bis 2024	4	8993	Immobilien Linz GmbH	23.000.000,00	23.000.000,00	13.500.000,00	13.500.000,00	13.500.000,00	429.975,00	429.975,00	430.000,00	1.800.000,00	1.800.000,00	1.800.000,00	0			11.700.000,00	11.700.000,00	11.700.000,00	1.500.000,00	1.500.000,00	1.500.000,00	8993
+Finanzunternehmen	KA Finanz AG	EUR-Konto Nr. 114.180 (restrukt. SFR-Anleihe 2005 Nr. 112 353)    (902-06/07/13)	Laufzeit von 2005 bis 2017	2	8530	Wohn- und Geschaeftsgebaeude	31.556.103,91	1.603.044,92	45.607.476,64	2.316.852,36	2.316.900,00	416.168,23	21.141,28	21.100,00	45.607.476,64	2.316.852,36	2.316.900,00	0			0						8530
+Finanzunternehmen	KA Finanz AG			2	8782	Seniorenzentren der Stadt Linz		2.244.262,67		3.243.592,99	3.243.600,00		29.597,79	29.600,00		3.243.592,99	3.243.600,00										8782
+Finanzunternehmen	KA Finanz AG			2	8950	Design Center Linz		27.708.796,32		40.047.031,29	40.047.000,00		365.429,16	365.400,00		40.047.031,29	40.047.000,00										8950
+	KA Finanz AG Ergebnis						68681233,75	68.681.233,75	65232564,94	65.232.564,94	65.232.600,00	942503,83	942.503,83	942.600,00	48457487,02	48.457.487,02	48.457.500,00	0	0	0	16775077,92	16.775.077,92	16.775.100,00	1500000	1.500.000,00	1.500.000,00	
+Finanzunternehmen	Oberbank AG	Oberbank    711-2975.07       (902-06/08/08)	Laufzeit von 2011 bis 2027	1	160	Informationstechnologie	20.000.000,00	1.000.000,00	16.153.846,15	807.692,31	807.700,00	539.495,20	26.974,76	27.000,00	1.538.461,54	76.923,08	76.900,00	0			14.615.384,61	730.769,23	730.800,00	0			160
+Finanzunternehmen	Oberbank AG			1	290	Amtsgebaeude		3.762.000,00		3.038.538,46	3.038.500,00		101.479,05	101.500,00		289.384,62	289.400,00					2.749.153,85	2.749.100,00				290
+Finanzunternehmen	Oberbank AG			1	303	Direktion Planung, Technik und Umwelt		79.000,00		63.807,69	63.800,00		2.131,01	2.100,00		6.076,92	6.100,00					57.730,77	57.700,00				303
+Finanzunternehmen	Oberbank AG			1	310	Stadtentwicklung und Bebauungsplanung		700.000,00		565.384,62	565.400,00		18.882,33	18.900,00		53.846,15	53.800,00					511.538,46	511.600,00				310
+Finanzunternehmen	Oberbank AG			1	311	Verkehrsplanung		1.057.000,00		853.730,77	853.700,00		28.512,32	28.500,00		81.307,69	81.300,00					772.423,08	772.400,00				311
+Finanzunternehmen	Oberbank AG			1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"		9.784.300,00		7.902.703,85	7.902.700,00		263.929,15	263.900,00		752.638,47	752.600,00					7.150.065,37	7.150.100,00				6121
+Finanzunternehmen	Oberbank AG			1	6122	Bruecken		561.300,00		453.357,69	453.400,00		15.140,93	15.100,00		43.176,92	43.200,00					410.180,77	410.200,00				6122
+Finanzunternehmen	Oberbank AG			1	6290	"Allgemeiner Wasserbau, sonstige Mazslig;nahmen"		63.600,00		51.369,23	51.400,00		1.715,59	1.700,00		4.892,31	4.900,00					46.476,92	46.500,00				6290
+Finanzunternehmen	Oberbank AG			1	6300	Hochwasserregulierung bei Bundesfluessen		85.200,00		68.815,38	68.800,00		2.298,25	2.300,00		6.553,85	6.600,00					62.261,54	62.200,00				6300
+Finanzunternehmen	Oberbank AG			1	6400	"Einrichtungen und Mazslig;nahmen nach der StVO"		537.000,00		433.730,77	433.700,00		14.485,45	14.500,00		41.307,69	41.300,00					392.423,08	392.400,00				6400
+Finanzunternehmen	Oberbank AG			1	7890	Foerderung von Handel, Gewerbe und Industrie		171.300,00		138.357,69	138.400,00		4.620,78	4.600,00		13.176,92	13.200,00					125.180,77	125.200,00				7890
+Finanzunternehmen	Oberbank AG			1	8120	WC-Anlagen		45.000,00		36.346,15	36.300,00		1.213,86	1.200,00		3.461,54	3.500,00					32.884,62	32.800,00				8120
+Finanzunternehmen	Oberbank AG			1	8140	"Strazslig;enreinigung"		299.500,00		241.903,85	241.900,00		8.078,94	8.100,00		23.038,46	23.000,00					218.865,38	218.900,00				8140
+Finanzunternehmen	Oberbank AG			1	8150	oeffentliche Anlagen		795.100,00		642.196,15	642.200,00		21.447,63	21.400,00		61.161,54	61.200,00					581.034,62	581.000,00				8150
+Finanzunternehmen	Oberbank AG			1	8151	Kinderspielplaetze		88.000,00		71.076,92	71.100,00		2.373,78	2.400,00		6.769,23	6.800,00					64.307,69	64.300,00				8151
+Finanzunternehmen	Oberbank AG			1	8160	oeffentliche Beleuchtung und oeffentliche Uhren		971.700,00		784.834,62	784.800,00		26.211,37	26.200,00		74.746,15	74.700,00					710.088,46	710.100,00				8160
+Finanzunternehmen	Oberbank AG	Oberbank    711-2975.15       (902-06/08/09)	Laufzeit von 2011 bis 2022	1	290	Amtsgebaeude	26.671.800,00	46.000,00	16.299.433,31	28.111,11	28.100,00	462.377,88	797,45	800	2.963.533,34	5.111,12	5.100,00	0			13.335.899,97	22.999,98	23.000,00	0			290
+Finanzunternehmen	Oberbank AG			1	311	Verkehrsplanung		19.000,00		11.611,11	11.600,00		329,38	300		2.111,11	2.100,00					9.500,00	9.500,00				311
+Finanzunternehmen	Oberbank AG			1	610	Sonstige Subventionen		2.530.000,00		1.546.111,11	1.546.100,00		43.859,66	43.900,00		281.111,11	281.100,00					1.265.000,00	1.265.000,00				610
+Finanzunternehmen	Oberbank AG			1	1620	Berufsfeuerwehr		104.700,00		63.983,33	64.000,00		1.815,06	1.800,00		11.633,33	11.600,00					52.350,00	52.400,00				1620
+Finanzunternehmen	Oberbank AG			1	2101	Allgemeinbildende Pflichtschulen -Gebaeudemanagement		793.000,00		484.611,11	484.600,00		13.747,32	13.700,00		88.111,11	88.100,00					396.500,00	396.500,00				2101
+Finanzunternehmen	Oberbank AG			1	2290	"Sonst.Einrichtungen u.Mazslig;nahmen-berufsbildender Unterricht"		848.600,00		518.588,89	518.600,00		14.711,19	14.700,00		94.288,89	94.300,00					424.300,00	424.300,00				2290
+Finanzunternehmen	Oberbank AG			2	2500	Schuelerhorte		75.400,00		46.077,78	46.100,00		1.307,12	1.300,00		8.377,78	8.400,00					37.700,00	37.700,00				2500
+Finanzunternehmen	Oberbank AG			1	2620	Sportplaetze		55.400,00		33.855,56	33.900,00		960,41	1.000,00		6.155,56	6.200,00					27.700,00	27.700,00				2620
+Finanzunternehmen	Oberbank AG			1	2700	Volkshochschule Linz		1.589.700,00		971.483,33	971.500,00		27.558,77	27.600,00		176.633,33	176.600,00					794.850,00	794.900,00				2700
+Finanzunternehmen	Oberbank AG			1	2730	Stadtbibliothek Linz		96.000,00		58.666,67	58.700,00		1.664,24	1.700,00		10.666,67	10.700,00					48.000,00	48.000,00				2730
+Finanzunternehmen	Oberbank AG			1	2800	Foerderung von Universitaeten und Hochschulen		102.500,00		62.638,89	62.600,00		1.776,92	1.800,00		11.388,89	11.400,00					51.250,00	51.200,00				2800
+Finanzunternehmen	Oberbank AG			1	2890	Naturkundliche Station		100.000,00		61.111,11	61.100,00		1.733,58	1.700,00		11.111,11	11.100,00					50.000,00	50.000,00				2890
+Finanzunternehmen	Oberbank AG			1	3290	"Sonst.Einrichtungen u.Mazslig;nahmen-Musik u.darstellende Kunst"		5.191.000,00		3.172.277,77	3.172.300,00		89.990,31	90.000,00		576.777,78	576.800,00					2.595.499,99	2.595.500,00				3290
+Finanzunternehmen	Oberbank AG			1	3400	Museen der Stadt Linz		1.652.500,00		1.009.861,11	1.009.900,00		28.647,46	28.600,00		183.611,11	183.600,00					826.250,00	826.300,00				3400
+Finanzunternehmen	Oberbank AG			1	3500	ARS ELECTRONICA CENTER - Museum d. 21.Jahrhunderts		791.000,00		483.388,89	483.400,00		13.712,64	13.700,00		87.888,89	87.900,00					395.500,00	395.500,00				3500
+Finanzunternehmen	Oberbank AG			1	3510	Kunst- und Kulturfoerderung		135.000,00		82.500,00	82.500,00		2.340,34	2.300,00		15.000,00	15.000,00					67.500,00	67.500,00				3510
+Finanzunternehmen	Oberbank AG			1	3630	Altstadterhaltung und Ortsbildpflege		4.084.800,00		2.496.266,66	2.496.300,00		70.813,41	70.800,00		453.866,67	453.900,00					2.042.400,00	2.042.400,00				3630
+Finanzunternehmen	Oberbank AG			1	4290	Volkshaeuser		2.164.000,00		1.322.444,44	1.322.400,00		37.514,74	37.500,00		240.444,44	240.400,00					1.082.000,00	1.082.000,00				4290
+Finanzunternehmen	Oberbank AG			2	4300	Krabbelstuben		349.200,00		213.400,00	213.400,00		6.053,67	6.100,00		38.800,00	38.800,00					174.600,00	174.600,00				4300
+Finanzunternehmen	Oberbank AG			1	4890	Foerderung des Wohnbaues und Altwohnhausbesitzes		1.165.400,00		712.188,89	712.200,00		20.203,18	20.200,00		129.488,89	129.500,00					582.700,00	582.700,00				4890
+Finanzunternehmen	Oberbank AG			1	5010	Technik und Umwelt		255.000,00		155.833,33	155.800,00		4.420,64	4.400,00		28.333,33	28.300,00					127.500,00	127.500,00				5010
+Finanzunternehmen	Oberbank AG			1	5230	Laermbekaempfung		14.400,00		8.800,00	8.800,00		249,64	200		1.600,00	1.600,00					7.200,00	7.200,00				5230
+Finanzunternehmen	Oberbank AG			1	6100	"Bundesstrazslig;en"		800.000,00		488.888,89	488.900,00		13.868,67	13.900,00		88.888,89	88.900,00					400.000,00	400.000,00				6100
+Finanzunternehmen	Oberbank AG			1	6110	"Landesstrazslig;en"		50.000,00		30.555,56	30.600,00		866,79	900		5.555,56	5.600,00					25.000,00	25.000,00				6110
+Finanzunternehmen	Oberbank AG			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		1.685.200,00		1.029.844,44	1.029.800,00		29.214,35	29.200,00		187.244,44	187.200,00					842.600,00	842.600,00				6120
+Finanzunternehmen	Oberbank AG			1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"		1.974.000,00		1.206.333,33	1.206.300,00		34.220,94	34.200,00		219.333,33	219.300,00					987.000,00	987.000,00				6121
+Finanzunternehmen	Oberbank AG	Oberbank    711-3186.75      (902-06-08/11  )	Laufzeit von 2012, 2013 bis 2033	1	290	Amtsgebaeude	11.478.500,00	149.400,00	11.478.500,00	149.400,00	149.400,00	123.779,97	1.611,08	1.600,00	695.666,68	9.054,55	9.100,00	0			10.782.833,32	140.345,45	140.300,00	34.345,09	447,02	400	290
+Finanzunternehmen	Oberbank AG			1	610	Sonstige Subventionen		629.300,00		629.300,00	629.300,00		6.786,14	6.800,00		38.139,39	38.100,00					591.160,61	591.200,00		1.882,94	1.900,00	610
+Finanzunternehmen	Oberbank AG			1	2290	"Sonst.Einrichtungen u.Mazslig;nahmen-berufsbildender Unterricht"		200		200	200		2,16	0		12,12	0					187,88	200		0,6	0	2290
+Finanzunternehmen	Oberbank AG			2	2500	Schuelerhorte		223.800,00		223.800,00	223.800,00		2.413,38	2.400,00		13.563,64	13.600,00					210.236,36	210.200,00		669,64	700	2500
+Finanzunternehmen	Oberbank AG			1	2620	Sportplaetze		54.300,00		54.300,00	54.300,00		585,55	600		3.290,91	3.300,00					51.009,09	51.000,00		162,47	200	2620
+Finanzunternehmen	Oberbank AG			1	2700	Volkshochschule Linz		600		600	600		6,47	0		36,36	0					563,64	600		1,8	0	2700
+Finanzunternehmen	Oberbank AG			1	2730	Stadtbibliothek Linz		100		100	100		1,08	0		6,06	0					93,94	100		0,3	0	2730
+Finanzunternehmen	Oberbank AG			1	2890	Naturkundliche Station		100.000,00		100.000,00	100.000,00		1.078,36	1.100,00		6.060,61	6.100,00					93.939,39	93.900,00		299,21	300	2890
+Finanzunternehmen	Oberbank AG			1	3400	Museen der Stadt Linz		2.400,00		2.400,00	2.400,00		25,88	0		145,45	100					2.254,55	2.300,00		7,18	0	3400
+Finanzunternehmen	Oberbank AG			1	3510	Kunst- und Kulturfoerderung		39.900,00		39.900,00	39.900,00		430,27	400		2.418,18	2.400,00					37.481,82	37.500,00		119,39	100	3510
+Finanzunternehmen	Oberbank AG			1	3630	Altstadterhaltung und Ortsbildpflege		818.500,00		818.500,00	818.500,00		8.826,41	8.800,00		49.606,06	49.600,00					768.893,94	768.900,00		2.449,05	2.400,00	3630
+Finanzunternehmen	Oberbank AG			1	3810	Staedtische Kulturentwicklung		5.800,00		5.800,00	5.800,00		62,55	100		351,52	400					5.448,48	5.400,00		17,35	0	3810
+Finanzunternehmen	Oberbank AG			1	4111	Geschlossene Sozialhilfe		252.000,00		252.000,00	252.000,00		2.717,48	2.700,00		15.272,73	15.300,00					236.727,27	236.700,00		754,02	800	4111
+Finanzunternehmen	Oberbank AG			1	4890	Foerderung des Wohnbaues und Altwohnhausbesitzes		277.100,00		277.100,00	277.100,00		2.988,15	3.000,00		16.793,94	16.800,00					260.306,06	260.300,00		829,12	800	4890
+Finanzunternehmen	Oberbank AG			1	5010	Technik und Umwelt		55.000,00		55.000,00	55.000,00		593,1	600		3.333,33	3.300,00					51.666,67	51.700,00		164,57	200	5010
+Finanzunternehmen	Oberbank AG			1	5120	Mutterberatung		2.300,00		2.300,00	2.300,00		24,8	0		139,39	100					2.160,61	2.200,00		6,88	0	5120
+Finanzunternehmen	Oberbank AG			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		137.800,00		137.800,00	137.800,00		1.485,99	1.500,00		8.351,52	8.400,00					129.448,48	129.400,00		412,31	400	6120
+Finanzunternehmen	Oberbank AG			1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"		4.912.400,00		4.912.400,00	4.912.400,00		52.973,54	53.000,00		297.721,22	297.700,00					4.614.678,78	4.614.700,00		14.698,51	14.700,00	6121
+Finanzunternehmen	Oberbank AG			1	6122	Bruecken		189.900,00		189.900,00	189.900,00		2.047,81	2.000,00		11.509,09	11.500,00					178.390,91	178.400,00		568,2	600	6122
+Finanzunternehmen	Oberbank AG			1	6290	"Allgemeiner Wasserbau, sonstige Mazslig;nahmen"		19.400,00		19.400,00	19.400,00		209,2	200		1.175,76	1.200,00					18.224,24	18.200,00		58,05	100	6290
+Finanzunternehmen	Oberbank AG			1	6300	Hochwasserregulierung bei Bundesfluessen		2.400,00		2.400,00	2.400,00		25,88	0		145,45	100					2.254,55	2.300,00		7,18	0	6300
+Finanzunternehmen	Oberbank AG			1	6400	"Einrichtungen und Mazslig;nahmen nach der StVO"		325.300,00		325.300,00	325.300,00		3.507,92	3.500,00		19.715,15	19.700,00					305.584,85	305.600,00		973,34	1.000,00	6400
+Finanzunternehmen	Oberbank AG			1	7890	Foerderung von Handel, Gewerbe und Industrie		17.800,00		17.800,00	17.800,00		191,95	200		1.078,79	1.100,00					16.721,21	16.700,00		53,26	100	7890
+Finanzunternehmen	Oberbank AG			1	8140	"Strazslig;enreinigung"		109.300,00		109.300,00	109.300,00		1.178,65	1.200,00		6.624,24	6.600,00					102.675,76	102.700,00		327,04	300	8140
+Finanzunternehmen	Oberbank AG			1	8150	oeffentliche Anlagen		666.900,00		666.900,00	666.900,00		7.191,58	7.200,00		40.418,19	40.400,00					626.481,81	626.500,00		1.995,45	2.000,00	8150
+Finanzunternehmen	Oberbank AG			4	9500	Aufgenommene Darlehen,Schuldendienst		2.486.600,00		2.486.600,00	2.486.600,00		26.814,59	26.800,00		150.703,03	150.700,00					2.335.896,97	2.335.900,00		7.440,21	7.400,00	9500
+Finanzunternehmen	Oberbank AG	Oberbank    711-3190.12          (902-06-08/10)	Laufzeit von 2013 bis 2028	1	0	Gemeinderat	25.000.000,00	90.000,00	23.000.000,00	82.800,00	82.800,00	205.275,00	738,99	700	2.000.000,00	7.200,00	7.200,00	0			21.000.000,00	75.600,00	75.600,00	0			0
+Finanzunternehmen	Oberbank AG			1	311	Verkehrsplanung		23.639,51		21.748,35	21.700,00		194,1	200		1.891,16	1.900,00					19.857,19	19.800,00				311
+Finanzunternehmen	Oberbank AG			1	610	Sonstige Subventionen		2.653.147,79		2.440.895,97	2.440.900,00		21.785,00	21.800,00		212.251,82	212.300,00					2.228.644,14	2.228.600,00				610
+Finanzunternehmen	Oberbank AG			1	1620	Berufsfeuerwehr		87.049,14		80.085,21	80.100,00		714,76	700		6.963,93	7.000,00					73.121,28	73.100,00				1620
+Finanzunternehmen	Oberbank AG			1	1630	Freiwillige Feuerwehren		2.000,00		1.840,00	1.800,00		16,42	0		160	200					1.680,00	1.600,00				1630
+Finanzunternehmen	Oberbank AG			1	1790	Katastrophenschutz		3.638,86		3.347,75	3.300,00		29,88	0		291,11	300					3.056,64	3.000,00				1790
+Finanzunternehmen	Oberbank AG			1	2100	Allgemeinbildende Pflichtschulen		90.000,00		82.800,00	82.800,00		738,99	700		7.200,00	7.200,00					75.600,00	75.600,00				2100
+Finanzunternehmen	Oberbank AG			2	2500	Schuelerhorte		581.944,18		535.388,65	535.400,00		4.778,34	4.800,00		46.555,53	46.600,00					488.833,11	488.800,00				2500
+Finanzunternehmen	Oberbank AG			2	2620	Sportplaetze		60.000,00		55.200,00	55.200,00		492,66	500		4.800,00	4.800,00					50.400,00	50.400,00				2620
+Finanzunternehmen	Oberbank AG			2	2700	Volkshochschule Linz		726.141,47		668.050,15	668.100,00		5.962,35	6.000,00		58.091,32	58.100,00					609.958,83	610.000,00				2700
+Finanzunternehmen	Oberbank AG			1	2730	Stadtbibliothek Linz		49.967,33		45.969,94	46.000,00		410,28	400		3.997,39	4.000,00					41.972,56	42.000,00				2730
+Finanzunternehmen	Oberbank AG			1	2890	Naturkundliche Station		100.000,00		92.000,00	92.000,00		821,1	800		8.000,00	8.000,00					84.000,00	84.000,00				2890
+Finanzunternehmen	Oberbank AG			1	3290	"Sonst.Einrichtungen u.Mazslig;nahmen-Musik u.darstellende Kunst"		5.191.000,00		4.775.720,00	4.775.700,00		42.623,30	42.600,00		415.280,00	415.300,00					4.360.440,00	4.360.400,00				3290
+Finanzunternehmen	Oberbank AG			1	3500	ARS ELECTRONICA CENTER - Museum d. 21.Jahrhunderts		800.000,00		736.000,00	736.000,00		6.568,80	6.600,00		64.000,00	64.000,00					672.000,00	672.000,00				3500
+Finanzunternehmen	Oberbank AG			1	3630	Altstadterhaltung und Ortsbildpflege		2.281.650,00		2.099.118,00	2.099.100,00		18.734,63	18.700,00		182.532,00	182.500,00					1.916.586,00	1.916.600,00				3630
+Finanzunternehmen	Oberbank AG			1	4010	Soziales-, Jugend und Familie		26.667,05		24.533,69	24.500,00		218,96	200		2.133,36	2.100,00					22.400,32	22.400,00				4010
+Finanzunternehmen	Oberbank AG			1	4111	Geschlossene Sozialhilfe		1.685.400,00		1.550.568,00	1.550.600,00		13.838,82	13.800,00		134.832,00	134.800,00					1.415.736,00	1.415.800,00				4111
+Finanzunternehmen	Oberbank AG			1	4290	Volkshaeuser		261.157,57		240.264,96	240.300,00		2.144,36	2.100,00		20.892,61	20.900,00					219.372,36	219.400,00				4290
+Finanzunternehmen	Oberbank AG			2	4300	Krabbelstuben		60.958,44		56.081,76	56.100,00		500,53	500		4.876,68	4.900,00					51.205,09	51.200,00				4300
+Finanzunternehmen	Oberbank AG			1	4890	Foerderung des Wohnbaues und Altwohnhausbesitzes		713.448,00		656.372,16	656.400,00		5.858,12	5.900,00		57.075,84	57.100,00					599.296,32	599.300,00				4890
+Finanzunternehmen	Oberbank AG			1	5010	Technik und Umwelt		222.717,35		204.899,96	204.900,00		1.828,73	1.800,00		17.817,39	17.800,00					187.082,57	187.100,00				5010
+Finanzunternehmen	Oberbank AG			1	5230	Laermbekaempfung		8.490,00		7.810,80	7.800,00		69,71	100		679,2	700					7.131,60	7.100,00				5230
+Finanzunternehmen	Oberbank AG			1	6100	"Bundesstrazslig;en"		400.000,00		368.000,00	368.000,00		3.284,40	3.300,00		32.000,00	32.000,00					336.000,00	336.000,00				6100
+Finanzunternehmen	Oberbank AG			1	6110	"Landesstrazslig;en"		24.358,51		22.409,83	22.400,00		200,01	200		1.948,68	1.900,00					20.461,15	20.500,00				6110
+Finanzunternehmen	Oberbank AG			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		1.373.949,97		1.264.033,97	1.264.000,00		11.281,50	11.300,00		109.916,00	109.900,00					1.154.117,97	1.154.100,00				6120
+Finanzunternehmen	Oberbank AG			1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"		4.929.780,41		4.535.397,98	4.535.400,00		40.478,43	40.500,00		394.382,43	394.400,00					4.141.015,54	4.141.000,00				6121
+Finanzunternehmen	Oberbank AG			1	6122	Bruecken		45.413,54		41.780,46	41.800,00		372,89	400		3.633,08	3.600,00					38.147,37	38.200,00				6122
+Finanzunternehmen	Oberbank AG			1	6300	Hochwasserregulierung bei Bundesfluessen		29.105,21		26.776,79	26.800,00		238,98	200		2.328,42	2.300,00					24.448,38	24.500,00				6300
+Finanzunternehmen	Oberbank AG			1	6400	"Einrichtungen und Mazslig;nahmen nach der StVO"		184.129,84		169.399,45	169.400,00		1.511,89	1.500,00		14.730,39	14.700,00					154.669,07	154.700,00				6400
+Finanzunternehmen	Oberbank AG			1	7890	Foerderung von Handel, Gewerbe und Industrie		29.673,16		27.299,31	27.300,00		243,65	200		2.373,85	2.400,00					24.925,45	24.900,00				7890
+Finanzunternehmen	Oberbank AG			1	8120	WC-Anlagen		45.000,00		41.400,00	41.400,00		369,5	400		3.600,00	3.600,00					37.800,00	37.800,00				8120
+Finanzunternehmen	Oberbank AG			1	8140	"Strazslig;enreinigung"		517.229,84		475.851,45	475.900,00		4.246,97	4.200,00		41.378,39	41.400,00					434.473,07	434.500,00				8140
+Finanzunternehmen	Oberbank AG			1	8150	oeffentliche Anlagen		987.509,37		908.508,62	908.500,00		8.108,44	8.100,00		79.000,75	79.000,00					829.507,87	829.500,00				8150
+Finanzunternehmen	Oberbank AG			1	8151	Kinderspielplaetze		38.000,00		34.960,00	35.000,00		312,02	300		3.040,00	3.000,00					31.920,00	32.000,00				8151
+Finanzunternehmen	Oberbank AG			1	8160	oeffentliche Beleuchtung und oeffentliche Uhren		513.097,15		472.049,38	472.000,00		4.213,04	4.200,00		41.047,77	41.000,00					431.001,61	431.000,00				8160
+Finanzunternehmen	Oberbank AG			2	8401	Grundbesitz - oeffentliches Gut		163.167,75		150.114,33	150.100,00		1.339,77	1.300,00		13.053,42	13.100,00					137.060,91	137.000,00				8401
+Finanzunternehmen	Oberbank AG			1	9500	Aufgenommene Darlehen,Schuldendienst		568,56		523,08	500		4,68	0		45,48	0					477,6	500				9500
+	Oberbank AG Ergebnis						83150300	83.150.300,00	66931779,46	66.931.779,46	66.931.800,00	1330928,05	1.330.928,05	1.330.400,00	7197661,56	7.197.661,56	7.197.600,00	0	0	0	59734117,9	59.734.117,90	59.734.200,00	34345,09	34.345,09	34.400,00	
+Finanzunternehmen	Ooe Landesbank AG Hypo	Hypo Ooe   1 0001011 5         (GZ 902 06/06/26)	Laufzeit von 2012 bis 2027	1	0	Gemeinderat	20.000.000,00	38.900,00	18.333.333,32	35.658,33	35.700,00	179.872,92	349,85	300	1.666.666,68	3.241,67	3.200,00	0			16.666.666,64	32.416,67	32.500,00	0			0
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	3400	Museen der Stadt Linz		2.136.000,00		1.958.000,00	1.958.000,00		19.210,43	19.200,00		178.000,00	178.000,00					1.780.000,00	1.780.000,00				3400
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	3510	Kunst- und Kulturfoerderung		98.000,00		89.833,33	89.800,00		881,38	900		8.166,67	8.200,00					81.666,67	81.600,00				3510
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	3630	Altstadterhaltung und Ortsbildpflege		1.184.000,00		1.085.333,33	1.085.300,00		10.648,48	10.600,00		98.666,67	98.700,00					986.666,67	986.600,00				3630
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	4111	Geschlossene Sozialhilfe		1.372.000,00		1.257.666,67	1.257.700,00		12.339,28	12.300,00		114.333,33	114.300,00					1.143.333,33	1.143.400,00				4111
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	4290	Volkshaeuser		1.951.000,00		1.788.416,67	1.788.400,00		17.546,60	17.500,00		162.583,33	162.600,00					1.625.833,33	1.625.800,00				4290
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	4300	Krabbelstuben		84.000,00		77.000,00	77.000,00		755,47	800		7.000,00	7.000,00					70.000,00	70.000,00				4300
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	4890	Foerderung des Wohnbaues und Altwohnhausbesitzes		625.000,00		572.916,67	572.900,00		5.621,03	5.600,00		52.083,33	52.100,00					520.833,33	520.800,00				4890
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	5010	Technik und Umwelt		200.000,00		183.333,33	183.300,00		1.798,73	1.800,00		16.666,67	16.700,00					166.666,67	166.600,00				5010
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	5230	Laermbekaempfung		7.000,00		6.416,67	6.400,00		62,96	100		583,33	600					5.833,33	5.800,00				5230
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	6100	"Bundesstrazslig;en"		400.000,00		366.666,67	366.700,00		3.597,46	3.600,00		33.333,33	33.300,00					333.333,33	333.400,00				6100
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	6110	"Landesstrazslig;en"		150.000,00		137.500,00	137.500,00		1.349,05	1.300,00		12.500,00	12.500,00					125.000,00	125.000,00				6110
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		924.000,00		847.000,00	847.000,00		8.310,13	8.300,00		77.000,00	77.000,00					770.000,00	770.000,00				6120
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"		7.666.100,00		7.027.258,33	7.027.300,00		68.946,19	68.900,00		638.841,67	638.800,00					6.388.416,66	6.388.500,00				6121
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	6290	"Allgemeiner Wasserbau, sonstige Mazslig;nahmen"		30.000,00		27.500,00	27.500,00		269,81	300		2.500,00	2.500,00					25.000,00	25.000,00				6290
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	6300	Hochwasserregulierung bei Bundesfluessen		35.000,00		32.083,33	32.100,00		314,78	300		2.916,67	2.900,00					29.166,67	29.200,00				6300
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	6400	"Einrichtungen und Mazslig;nahmen nach der StVO"		112.000,00		102.666,67	102.700,00		1.007,29	1.000,00		9.333,33	9.300,00					93.333,33	93.400,00				6400
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	7890	Foerderung von Handel, Gewerbe und Industrie		61.000,00		55.916,67	55.900,00		548,61	500		5.083,33	5.100,00					50.833,33	50.800,00				7890
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	8120	WC-Anlagen		45.000,00		41.250,00	41.300,00		404,71	400		3.750,00	3.800,00					37.500,00	37.500,00				8120
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	8140	"Strazslig;enreinigung"		354.000,00		324.500,00	324.500,00		3.183,75	3.200,00		29.500,00	29.500,00					295.000,00	295.000,00				8140
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	8151	Kinderspielplaetze		92.000,00		84.333,33	84.300,00		827,42	800		7.666,67	7.700,00					76.666,67	76.600,00				8151
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	8160	oeffentliche Beleuchtung und oeffentliche Uhren		395.000,00		362.083,33	362.100,00		3.552,49	3.600,00		32.916,67	32.900,00					329.166,67	329.200,00				8160
+Finanzunternehmen	Ooe Landesbank AG Hypo			2	8401	Grundbesitz - oeffentliches Gut		1.440.000,00		1.320.000,00	1.320.000,00		12.950,85	13.000,00		120.000,00	120.000,00					1.200.000,00	1.200.000,00				8401
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	9001	Finanzen und Wirtschaft		600.000,00		549.999,99	550.000,00		5.396,17	5.400,00		50.000,01	50.000,00					499.999,98	500.000,00				9001
+Finanzunternehmen	Ooe Landesbank AG Hypo	Hypo Ooe   2 0001011 4        (GZ 902 06/06/27)	Laufzeit von 2013 bis 2030	1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"	20.000.000,00	15.643.000,00	18.666.644,45	14.600.115,96	14.600.100,00	521.283,74	407.722,08	407.700,00	1.333.333,34	1.042.866,67	1.042.900,00	0			17.333.311,11	13.557.249,28	13.557.200,00	0			6121
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	6390	Uferschutzbauten,Bachregulierung,Gewaesseraufsicht		23.000,00		21.466,64	21.500,00		599,48	600		1.533,33	1.500,00					19.933,31	20.000,00				6390
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	8151	Kinderspielplaetze		200.000,00		186.666,44	186.700,00		5.212,84	5.200,00		13.333,33	13.300,00					173.333,11	173.400,00				8151
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	8160	oeffentliche Beleuchtung und oeffentliche Uhren		4.134.000,00		3.858.395,41	3.858.400,00		107.749,34	107.700,00		275.600,01	275.600,00					3.582.795,41	3.582.800,00				8160
+Finanzunternehmen	Ooe Landesbank AG Hypo	Hypo Ooe   4 000 010 118            (902-06/06/22)	Laufzeit von 1999 bis 2020	1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"	6.758.573,58	6.758.573,58	1.865.622,87	1.865.622,87	1.865.600,00	1.931,09	1.931,09	1.900,00	532.292,47	532.292,47	532.300,00	0			1.333.330,40	1.333.330,40	1.333.300,00	0			6120
+Finanzunternehmen	Ooe Landesbank AG Hypo	Hypo Ooe   4 100 010 117              (902-06/06/23)	Laufzeit von 2002 bis 2018	2	2690	Koerperliche Ertuechtigung	6.000.000,00	3.100.000,00	989.206,17	511.089,85	511.100,00	1.833,47	947,29	900	667.445,25	344.846,71	344.800,00	0			321.760,92	166.243,14	166.300,00	0			2690
+Finanzunternehmen	Ooe Landesbank AG Hypo			2	8530	Wohn- und Geschaeftsgebaeude		400.000,00		65.947,08	65.900,00		122,23	100		44.496,35	44.500,00					21.450,73	21.400,00				8530
+Finanzunternehmen	Ooe Landesbank AG Hypo			2	8782	Seniorenzentren der Stadt Linz		2.500.000,00		412.169,24	412.200,00		763,95	800		278.102,19	278.100,00					134.067,05	134.100,00				8782
+Finanzunternehmen	Ooe Landesbank AG Hypo	Hypo Ooe   4 900 416 092             (902-06/06/21)	Laufzeit von 1997 bis 2018	1	2400	Kindergaerten	1.453.456,68	363.364,17	234.983,59	58.745,90	58.700,00	317,19	79,3	100	156.592,05	39.148,01	39.100,00	0			78.391,54	19.597,89	19.600,00	0			2400
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	2620	Sportplaetze		654.055,51		105.742,62	105.700,00		142,74	100		70.466,42	70.500,00					35.276,19	35.200,00				2620
+Finanzunternehmen	Ooe Landesbank AG Hypo			1	5300	Rettungsdienste		436.037,00		70.495,07	70.500,00		95,15	100		46.977,62	47.000,00					23.517,46	23.500,00				5300
+Finanzunternehmen	Ooe Landesbank AG Hypo	Hypo Ooe  IBAN AT30 5400 0000 0041 2858    (902 06 30 00)	Laufzeit von 2013 bis 2023	1	8994	Allgemeines oeffentliches Krankenhaus d.Stadt Linz	20.000.000,00	20.000.000,00	20.000.000,00	20.000.000,00	20.000.000,00	596.775,00	596.775,00	596.800,00	0	0	0	0			20.000.000,00	20.000.000,00	20.000.000,00	0			8994
+	Ooe Landesbank AG Hypo Ergebnis						74.212.030,26	74.212.030,26	60.089.790,40	60.089.790,40	60.089.800,00	1.302.013,41	1.302.013,41	1.301.700,00	4356329,79	4.356.329,79	4.356.300,00	0	0	0	55.733.460,61	55.733.460,61	55.733.500,00	0	0	0	
+Finanzunternehmen	Raiffeisenlandesbank Ooe	RLB Ooe   1-24.028.110       (902-06/10/13)	Laufzeit von 2011 bis 2022	2	8530	Wohn- und Geschaeftsgebaeude	30.000.000,00	563.700,00	16.500.000,00	310.035,00	310.000,00	466.386,33	8.763,40	8.800,00	3.000.000,00	56.370,00	56.400,00	0			13.500.000,00	253.665,00	253.600,00	0			8530
+Finanzunternehmen	Raiffeisenlandesbank Ooe			2	8590	Maerkte		1.566.400,00		861.520,00	861.500,00		24.351,58	24.400,00		156.640,00	156.600,00					704.880,00	704.900,00				8590
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	8790	Linz AG		9.712.200,00		5.341.710,00	5.341.700,00		150.987,91	151.100,00		971.220,00	971.200,00					4.370.490,00	4.370.500,00				8790
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	8993	Immobilien Linz GmbH		15.931.000,00		8.762.050,00	8.762.100,00		247.666,69	247.800,00		1.593.100,00	1.593.100,00					7.168.950,00	7.169.000,00				8993
+Finanzunternehmen	Raiffeisenlandesbank Ooe			2	8994	Allgemeines oeffentliches Krankenhaus d.Stadt Linz		2.226.700,00		1.224.685,00	1.224.700,00		34.616,75	34.600,00		222.670,00	222.700,00					1.002.015,00	1.002.000,00				8994
+Finanzunternehmen	Raiffeisenlandesbank Ooe	RLB Ooe   1-24.033.763      (902-06/10/17 )	Laufzeit von 2012 bis 2028	2	8530	Wohn- und Geschaeftsgebaeude	23.273.300,00	592.200,00	20.587.919,24	523.869,23	523.900,00	273.170,80	6.950,96	7.000,00	1.790.253,84	45.553,85	45.600,00	0			18.797.665,40	478.315,39	478.300,00	0			8530
+Finanzunternehmen	Raiffeisenlandesbank Ooe			2	8590	Maerkte		50.700,00		44.850,00	44.900,00		595,09	600		3.900,00	3.900,00					40.950,00	41.000,00				8590
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	8782	Seniorenzentren der Stadt Linz		1.690.045,81		1.495.040,52	1.495.000,00		19.836,94	19.800,00		130.003,52	130.000,00					1.365.037,00	1.365.000,00				8782
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	8790	Linz AG		5.282.221,07		4.672.734,03	4.672.700,00		62.000,17	62.000,00		406.324,70	406.300,00					4.266.409,33	4.266.400,00				8790
+Finanzunternehmen	Raiffeisenlandesbank Ooe			2	8950	Design Center Linz		50.000,00		44.230,77	44.200,00		586,88	600		3.846,15	3.800,00					40.384,62	40.400,00				8950
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	8993	Immobilien Linz GmbH		15.608.133,12		13.807.194,69	13.807.200,00		183.200,76	183.300,00		1.200.625,62	1.200.600,00					12.606.569,06	12.606.600,00				8993
+Finanzunternehmen	Raiffeisenlandesbank Ooe	RLB Ooe   1-24.039.356     (902-06/10/21)	Laufzeit von 2014 bis 2029	2	8530	Wohn- und Geschaeftsgebaeude	13.826.200,00	758.800,00	13.826.200,00	758.800,00	758.800,00	193.199,65	10.603,05	10.600,00	1.063.553,86	58.369,23	58.400,00	0			12.762.646,14	700.430,77	700.400,00	0			8530
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	8790	Linz AG		6.854.900,00		6.854.900,00	6.854.900,00		95.786,57	95.900,00		527.300,01	527.300,00					6.327.599,99	6.327.600,00				8790
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	8993	Immobilien Linz GmbH		6.000.000,00		6.000.000,00	6.000.000,00		83.840,67	83.800,00		461.538,47	461.500,00					5.538.461,53	5.538.500,00				8993
+Finanzunternehmen	Raiffeisenlandesbank Ooe			2	8995	Informations- und Kommunikationstechnologie		212.500,00		212.500,00	212.500,00		2.969,36	3.000,00		16.346,15	16.300,00					196.153,85	196.200,00				8995
+Finanzunternehmen	Raiffeisenlandesbank Ooe	RLB Ooe   2- 24.028.110     (902-06/10/14)	Laufzeit von 2012 bis 2032	1	610	Sonstige Subventionen	30.000.000,00	2.570.000,00	25.833.333,34	2.213.055,56	2.213.100,00	968.039,44	82.928,71	82.900,00	1.666.666,68	142.777,79	142.800,00	0			24.166.666,66	2.070.277,79	2.070.300,00	0			610
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	1620	Berufsfeuerwehr		800.000,00		688.888,89	688.900,00		25.814,39	25.800,00		44.444,44	44.400,00					644.444,44	644.500,00				1620
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	1630	Freiwillige Feuerwehren		1.808.000,00		1.556.888,89	1.556.900,00		58.340,51	58.300,00		100.444,45	100.400,00					1.456.444,44	1.456.500,00				1630
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	2101	Allgemeinbildende Pflichtschulen -Gebaeudemanagement		1.700.000,00		1.463.888,89	1.463.900,00		54.855,57	54.900,00		94.444,45	94.400,00					1.369.444,44	1.369.500,00				2101
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	2290	"Sonst.Einrichtungen u.Mazslig;nahmen-berufsbildender Unterricht"		1.900.000,00		1.636.111,11	1.636.100,00		61.309,16	61.300,00		105.555,56	105.600,00					1.530.555,56	1.530.500,00				2290
+Finanzunternehmen	Raiffeisenlandesbank Ooe			2	2400	Kindergaerten		1.860.000,00		1.601.666,67	1.601.700,00		60.018,45	60.000,00		103.333,33	103.300,00					1.498.333,33	1.498.400,00				2400
+Finanzunternehmen	Raiffeisenlandesbank Ooe			2	2500	Schuelerhorte		2.000.000,00		1.722.222,22	1.722.200,00		64.535,96	64.500,00		111.111,11	111.100,00					1.611.111,11	1.611.100,00				2500
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	2620	Sportplaetze		176.000,00		151.555,56	151.600,00		5.679,16	5.700,00		9.777,78	9.800,00					141.777,78	141.800,00				2620
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	2690	Koerperliche Ertuechtigung		2.504.000,00		2.156.222,22	2.156.200,00		80.799,03	80.800,00		139.111,11	139.100,00					2.017.111,11	2.017.100,00				2690
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	2700	Volkshochschule Linz		1.000.000,00		861.111,11	861.100,00		32.267,98	32.300,00		55.555,56	55.600,00					805.555,56	805.500,00				2700
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	2800	Foerderung von Universitaeten und Hochschulen		654.000,00		563.166,67	563.200,00		21.103,26	21.100,00		36.333,33	36.300,00					526.833,33	526.900,00				2800
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	3290	"Sonst.Einrichtungen u.Mazslig;nahmen-Musik u.darstellende Kunst"		2.200.000,00		1.894.444,44	1.894.400,00		70.989,56	71.000,00		122.222,22	122.200,00					1.772.222,22	1.772.200,00				3290
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	3291	Linzer Veranstaltungsgesellschaft		260.000,00		223.888,89	223.900,00		8.389,68	8.400,00		14.444,44	14.400,00					209.444,44	209.500,00				3291
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	3400	Museen der Stadt Linz		1.800.000,00		1.550.000,00	1.550.000,00		58.082,37	58.100,00		100.000,00	100.000,00					1.450.000,00	1.450.000,00				3400
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	3510	Kunst- und Kulturfoerderung		188.000,00		161.888,89	161.900,00		6.066,38	6.100,00		10.444,44	10.400,00					151.444,44	151.500,00				3510
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	3630	Altstadterhaltung und Ortsbildpflege		3.300.000,00		2.841.666,67	2.841.700,00		106.484,34	106.600,00		183.333,33	183.300,00					2.658.333,33	2.658.400,00				3630
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	4290	Volkshaeuser		1.000.000,00		861.111,11	861.100,00		32.267,98	32.300,00		55.555,56	55.600,00					805.555,56	805.500,00				4290
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	4293	Herbergen		300.000,00		258.333,33	258.300,00		9.680,39	9.700,00		16.666,67	16.700,00					241.666,67	241.600,00				4293
+Finanzunternehmen	Raiffeisenlandesbank Ooe			2	4300	Krabbelstuben		186.000,00		160.166,67	160.200,00		6.001,84	6.000,00		10.333,33	10.300,00					149.833,33	149.900,00				4300
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	4391	Erziehungshilfe in Einrichtungen		200.000,00		172.222,22	172.200,00		6.453,60	6.500,00		11.111,11	11.100,00					161.111,11	161.100,00				4391
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	4890	Foerderung des Wohnbaues und Altwohnhausbesitzes		3.000.000,00		2.583.333,33	2.583.300,00		96.803,94	96.900,00		166.666,67	166.700,00					2.416.666,67	2.416.600,00				4890
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	5010	Technik und Umwelt		594.000,00		511.500,00	511.500,00		19.167,18	19.200,00		33.000,00	33.000,00					478.500,00	478.500,00				5010
+Finanzunternehmen	Raiffeisenlandesbank Ooe	RLB Ooe   20.015.442            (902-06/10/08)	Laufzeit von 1995 bis 2021	1	1620	Berufsfeuerwehr	12.776.514,95	1.308.111,02	3.227.783,51	232.400,41	232.400,00	16.166,86	1.164,01	1.200,00	710.673,14	51.168,47	51.200,00	0			2.517.110,37	181.231,95	181.200,00	0			1620
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	2400	Kindergaerten		3.052.259,04		542.267,63	542.300,00		2.716,03	2.700,00		119.393,09	119.400,00					422.874,54	422.900,00				2400
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	2690	Koerperliche Ertuechtigung		726.728,34		129.111,34	129.100,00		646,67	600		28.426,93	28.400,00					100.684,41	100.700,00				2690
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	3200	Musikschule der Stadt Linz		654.055,51		116.200,21	116.200,00		582,01	600		25.584,23	25.600,00					90.615,97	90.600,00				3200
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	3500	ARS ELECTRONICA CENTER - Museum d. 21.Jahrhunderts		1.090.092,51		193.667,01	193.700,00		970,01	1.000,00		42.640,39	42.600,00					151.026,62	151.100,00				3500
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	3630	Altstadterhaltung und Ortsbildpflege		1.453.456,68		258.222,68	258.200,00		1.293,35	1.300,00		56.853,85	56.900,00					201.368,83	201.300,00				3630
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	4010	Soziales-, Jugend und Familie		726.728,34		129.111,34	129.100,00		646,67	600		28.426,93	28.400,00					100.684,41	100.700,00				4010
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	5010	Technik und Umwelt		1.453.456,68		258.222,68	258.200,00		1.293,35	1.300,00		56.853,85	56.900,00					201.368,83	201.300,00				5010
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	5300	Rettungsdienste		1.308.111,02		232.400,41	232.400,00		1.164,01	1.200,00		51.168,47	51.200,00					181.231,95	181.200,00				5300
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		-813.305,04		813.401,45	813.400,00		4.074,06	4.100,00		179.089,62	179.100,00					634.311,82	634.300,00				6120
+Finanzunternehmen	Raiffeisenlandesbank Ooe			2	8782	Seniorenzentren der Stadt Linz		1.816.820,85		322.778,35	322.800,00		1.616,69	1.600,00		71.067,31	71.100,00					251.711,04	251.700,00				8782
+Finanzunternehmen	Raiffeisenlandesbank Ooe	RLB Ooe   20.021.879            (902-06/10/09)	Laufzeit von 1997 bis 2023	1	2400	Kindergaerten	1.453.456,68	508.709,84	536.319,03	187.711,66	187.700,00	2.353,34	823,67	800	81.480,88	28.518,31	28.500,00	0			454.838,15	159.193,35	159.200,00	0			2400
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	2500	Schuelerhorte		944.746,84		348.607,37	348.600,00		1.529,67	1.500,00		52.962,57	53.000,00					295.644,80	295.600,00				2500
+Finanzunternehmen	Raiffeisenlandesbank Ooe	RLB Ooe   20.025.094           (902-06/10/10)	Laufzeit von 1998 bis 2024	1	2620	Sportplaetze	3.270.277,54	363.364,16	1.269.336,99	141.037,44	141.000,00	53.020,54	5.891,17	5.900,00	146.766,14	16.307,35	16.300,00	0			1.122.570,85	124.730,10	124.700,00	0			2620
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	6510	Sonstige Schienenwege		1.308.111,02		507.734,80	507.700,00		21.208,22	21.200,00		58.706,46	58.700,00					449.028,34	449.000,00				6510
+Finanzunternehmen	Raiffeisenlandesbank Ooe			2	8530	Wohn- und Geschaeftsgebaeude		1.598.802,36		620.564,75	620.600,00		25.921,15	25.900,00		71.752,33	71.800,00					548.812,41	548.800,00				8530
+Finanzunternehmen	Raiffeisenlandesbank Ooe	RLB Ooe   22.624.886           (902-06/10/11)	Laufzeit von 2002 bis 2018	1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"	5.800.000,00	1.000.000,00	580.000,00	100.000,00	100.000,00	24.488,89	4.222,22	4.200,00	386.666,68	66.666,67	66.700,00	0			193.333,32	33.333,33	33.300,00	0			6121
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	6510	Sonstige Schienenwege		2.500.000,00		250.000,00	250.000,00		10.555,56	10.600,00		166.666,67	166.700,00					83.333,33	83.300,00				6510
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	9140	Beteiligungen		2.300.000,00		230.000,00	230.000,00		9.711,11	9.700,00		153.333,34	153.300,00					76.666,66	76.700,00				9140
+Finanzunternehmen	Raiffeisenlandesbank Ooe	RLB Ooe   24.028.110          (902-06/10/12)	Laufzeit von 2012 bis 2032	2	8530	Wohn- und Geschaeftsgebaeude	39.233.300,00	6.188.000,00	30.405.807,50	4.795.700,00	4.795.700,00	1.107.027,50	174.603,87	174.700,00	1.961.665,00	309.400,00	309.400,00	0			28.444.142,50	4.486.300,00	4.486.300,00	0			8530
+Finanzunternehmen	Raiffeisenlandesbank Ooe			2	8590	Maerkte		3.160.000,00		2.449.000,00	2.449.000,00		89.164,23	89.200,00		158.000,00	158.000,00					2.291.000,00	2.291.000,00				8590
+Finanzunternehmen	Raiffeisenlandesbank Ooe			2	8790	Linz AG		8.146.000,00		6.313.150,00	6.313.200,00		229.851,84	230.000,00		407.300,00	407.300,00					5.905.850,00	5.905.900,00				8790
+Finanzunternehmen	Raiffeisenlandesbank Ooe			2	8950	Design Center Linz		50.000,00		38.750,00	38.800,00		1.410,83	1.400,00		2.500,00	2.500,00					36.250,00	36.300,00				8950
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	8993	Immobilien Linz GmbH		5.916.000,00		4.584.900,00	4.584.900,00		166.928,98	167.000,00		295.800,00	295.800,00					4.289.100,00	4.289.100,00				8993
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	8994	Allgemeines oeffentliches Krankenhaus d.Stadt Linz		15.773.300,00		12.224.307,50	12.224.300,00		445.067,75	445.200,00		788.665,00	788.700,00					11.435.642,50	11.435.600,00				8994
+Finanzunternehmen	Raiffeisenlandesbank Ooe	RLB Ooe   24.030.892         (902-06/10/15 )	Laufzeit von 2012 bis 2022	1	290	Amtsgebaeude	15.000.000,00	14.000,00	11.250.000,00	10.500,00	10.500,00	97.274,22	90,79	100	1.875.000,00	1.750,00	1.800,00	0			9.375.000,00	8.750,00	8.700,00	0			290
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	311	Verkehrsplanung		60.000,00		45.000,00	45.000,00		389,1	400		7.500,00	7.500,00					37.500,00	37.500,00				311
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	610	Sonstige Subventionen		2.605.000,00		1.953.750,00	1.953.800,00		16.893,29	16.900,00		325.625,00	325.600,00					1.628.125,00	1.628.200,00				610
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	1620	Berufsfeuerwehr		49.000,00		36.750,00	36.800,00		317,76	300		6.125,00	6.100,00					30.625,00	30.700,00				1620
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	2101	Allgemeinbildende Pflichtschulen -Gebaeudemanagement		1.310.000,00		982.500,00	982.500,00		8.495,28	8.500,00		163.750,00	163.800,00					818.750,00	818.700,00				2101
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	2290	"Sonst.Einrichtungen u.Mazslig;nahmen-berufsbildender Unterricht"		872.000,00		654.000,00	654.000,00		5.654,87	5.700,00		109.000,00	109.000,00					545.000,00	545.000,00				2290
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	2500	Schuelerhorte		117.000,00		87.750,00	87.800,00		758,74	800		14.625,00	14.600,00					73.125,00	73.200,00				2500
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	2620	Sportplaetze		4.000,00		3.000,00	3.000,00		25,94	0		500	500					2.500,00	2.500,00				2620
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	2690	Koerperliche Ertuechtigung		317.000,00		237.750,00	237.800,00		2.055,73	2.100,00		39.625,00	39.600,00					198.125,00	198.200,00				2690
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	2700	Volkshochschule Linz		2.920.000,00		2.190.000,00	2.190.000,00		18.936,05	18.900,00		365.000,00	365.000,00					1.825.000,00	1.825.000,00				2700
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	2730	Stadtbibliothek Linz		65.000,00		48.750,00	48.800,00		421,52	400		8.125,00	8.100,00					40.625,00	40.700,00				2730
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	2800	Foerderung von Universitaeten und Hochschulen		311.000,00		233.250,00	233.300,00		2.016,82	2.000,00		38.875,00	38.900,00					194.375,00	194.400,00				2800
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	3290	"Sonst.Einrichtungen u.Mazslig;nahmen-Musik u.darstellende Kunst"		5.191.000,00		3.893.250,00	3.893.300,00		33.663,37	33.700,00		648.875,00	648.900,00					3.244.375,00	3.244.400,00				3290
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	5120	Mutterberatung		7.000,00		5.250,00	5.300,00		45,39	0		875	900					4.375,00	4.400,00				5120
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	6122	Bruecken		301.000,00		225.750,00	225.800,00		1.951,97	2.000,00		37.625,00	37.600,00					188.125,00	188.200,00				6122
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	8150	oeffentliche Anlagen		857.000,00		642.750,00	642.800,00		5.557,60	5.600,00		107.125,00	107.100,00					535.625,00	535.700,00				8150
+Finanzunternehmen	Raiffeisenlandesbank Ooe	RLB Ooe   24.033.763     (902-06/10/16)	Laufzeit von 2012, 2013 bis 2028	2	8532	Wohn- und Geschaeftsgebaeude nach MRG	20.000.000,00	366.366,88	17.692.307,69	324.093,78	324.100,00	208.433,07	3.818,15	3.800,00	1.538.461,54	28.182,07	28.200,00	0			16.153.846,15	295.911,71	295.900,00	84.004,64	1.538,83	1.500,00	8532
+Finanzunternehmen	Raiffeisenlandesbank Ooe			2	8782	Seniorenzentren der Stadt Linz		10.734.554,19		9.495.951,78	9.496.000,00		111.871,80	112.000,00		825.734,94	825.700,00					8.670.216,84	8.670.300,00		45.087,62	45.100,00	8782
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	8790	Linz AG		1.899.078,93		1.679.954,44	1.680.000,00		19.791,54	19.800,00		146.082,99	146.100,00					1.533.871,44	1.533.900,00		7.976,57	8.000,00	8790
+Finanzunternehmen	Raiffeisenlandesbank Ooe			4	8993	Immobilien Linz GmbH		7.000.000,00		6.192.307,69	6.192.300,00		72.951,58	73.000,00		538.461,54	538.400,00					5.653.846,16	5.653.900,00		29.401,62	29.400,00	8993
+Finanzunternehmen	Raiffeisenlandesbank Ooe	RLB Ooe   24.034.118     (902-06/10/18)	Laufzeit von 2013 bis 2033	1	5010	Technik und Umwelt	20.000.000,00	1.306.000,00	20.000.000,00	1.306.000,00	1.306.000,00	617.410,98	40.316,94	40.300,00	1.212.121,22	79.151,52	79.200,00	0			18.787.878,78	1.226.848,48	1.226.800,00	0			5010
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	5230	Laermbekaempfung		100.000,00		100.000,00	100.000,00		3.087,05	3.100,00		6.060,61	6.100,00					93.939,39	93.900,00				5230
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	5300	Rettungsdienste		400.000,00		400.000,00	400.000,00		12.348,22	12.300,00		24.242,42	24.200,00					375.757,58	375.800,00				5300
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	6100	"Bundesstrazslig;en"		4.400.000,00		4.400.000,00	4.400.000,00		135.830,42	135.900,00		266.666,67	266.700,00					4.133.333,33	4.133.300,00				6100
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	6110	"Landesstrazslig;en"		122.000,00		122.000,00	122.000,00		3.766,21	3.800,00		7.393,94	7.400,00					114.606,06	114.600,00				6110
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		13.000.000,00		13.000.000,00	13.000.000,00		401.317,14	401.400,00		787.878,79	787.900,00					12.212.121,21	12.212.100,00				6120
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"		10.000,00		10.000,00	10.000,00		308,71	300		606,06	600					9.393,94	9.400,00				6121
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	6290	"Allgemeiner Wasserbau, sonstige Mazslig;nahmen"		60.000,00		60.000,00	60.000,00		1.852,23	1.900,00		3.636,36	3.600,00					56.363,64	56.400,00				6290
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	7890	Foerderung von Handel, Gewerbe und Industrie		141.000,00		141.000,00	141.000,00		4.352,75	4.400,00		8.545,45	8.500,00					132.454,55	132.500,00				7890
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	8120	WC-Anlagen		140.000,00		140.000,00	140.000,00		4.321,88	4.300,00		8.484,85	8.500,00					131.515,15	131.500,00				8120
+Finanzunternehmen	Raiffeisenlandesbank Ooe			1	8140	"Strazslig;enreinigung"		321.000,00		321.000,00	321.000,00		9.909,43	9.900,00		19.454,55	19.500,00					301.545,45	301.500,00				8140
+Finanzunternehmen	Raiffeisenlandesbank Ooe	RLB Ooe    24.034.969        (902-06/10/19)	Laufzeit von 2013 bis 2028	1	8993	Immobilien Linz GmbH	15.000.000,00	15.000.000,00	14.400.000,00	14.400.000,00	14.400.000,00	505.160,12	505.160,12	505.300,00	1.200.000,00	1.200.000,00	1.200.000,00	0			13.200.000,00	13.200.000,00	13.200.000,00	0			8993
+Finanzunternehmen	Raiffeisenlandesbank Ooe	RLB Ooe   24.039.356        (902-06/10/20)	Laufzeit von 2014 bis 2024	1	8993	Immobilien Linz GmbH	10.000.000,00	10.000.000,00	10.000.000,00	10.000.000,00	10.000.000,00	86.456,95	86.456,95	86.500,00	1.250.000,00	1.250.000,00	1.250.000,00	0			8.750.000,00	8.750.000,00	8.750.000,00	0			8993
+Finanzunternehmen	Raiffeisenlandesbank Ooe	RLB Ooe  AT36 3400 0000 2404 6211         (902 06 30 00)	Laufzeit von 2015 bis 2030	1	8994	Allgemeines oeffentliches Krankenhaus d.Stadt Linz	34.000.000,00	34.000.000,00	34.000.000,00	34.000.000,00	34.000.000,00	465.375,00	465.375,00	465.500,00	1.259.259,26	1.259.259,26	1.259.300,00	0			32.740.740,74	32.740.740,74	32.740.700,00	0			8994
+	Raiffeisenlandesbank Ooe Ergebnis						273.633.049,17	273.633.049,17	220.109.007,30	220.109.007,30	220.109.700,00	5.083.963,69	5.083.963,69	5.086.100,00	19.142.568,24	19.142.568,24	19.142.600,00	0	0	0	200.966.439,06	200.966.439,06	200.967.100,00	84.004,64	84.004,64	84.000,00	
+Finanzunternehmen	UniCredit Bank Austria	UniCredit 10004 651 765     (902-06/11/20)	Laufzeit von 2013 bis 2028	1	0	Gemeinderat	11.699.100,00	90.000,00	10.799.169,22	83.076,92	83.100,00	75.034,23	577,23	600	899.930,78	6.923,08	6.900,00	0			9.899.238,44	76.153,85	76.200,00	0			0
+Finanzunternehmen	UniCredit Bank Austria			1	311	Verkehrsplanung		109.000,00		100.615,38	100.600,00		699,09	700		8.384,62	8.400,00					92.230,77	92.200,00				311
+Finanzunternehmen	UniCredit Bank Austria			1	610	Sonstige Subventionen		2.201.500,00		2.032.153,84	2.032.200,00		14.119,71	14.100,00		169.346,16	169.300,00					1.862.807,69	1.862.900,00				610
+Finanzunternehmen	UniCredit Bank Austria			1	1790	Katastrophenschutz		122.500,00		113.076,92	113.100,00		785,68	800		9.423,08	9.400,00					103.653,85	103.700,00				1790
+Finanzunternehmen	UniCredit Bank Austria			1	2101	Allgemeinbildende Pflichtschulen -Gebaeudemanagement		473.000,00		436.615,38	436.600,00		3.033,67	3.000,00		36.384,62	36.400,00					400.230,77	400.200,00				2101
+Finanzunternehmen	UniCredit Bank Austria			1	2290	"Sonst.Einrichtungen u.Mazslig;nahmen-berufsbildender Unterricht"		570.000,00		526.153,85	526.200,00		3.655,79	3.700,00		43.846,15	43.800,00					482.307,69	482.400,00				2290
+Finanzunternehmen	UniCredit Bank Austria			2	2500	Schuelerhorte		789.400,00		728.676,92	728.700,00		5.062,96	5.100,00		60.723,08	60.700,00					667.953,84	668.000,00				2500
+Finanzunternehmen	UniCredit Bank Austria			1	2690	Koerperliche Ertuechtigung		173.000,00		159.692,31	159.700,00		1.109,57	1.100,00		13.307,69	13.300,00					146.384,62	146.400,00				2690
+Finanzunternehmen	UniCredit Bank Austria			1	2800	Foerderung von Universitaeten und Hochschulen		208.000,00		192.000,00	192.000,00		1.334,04	1.300,00		16.000,00	16.000,00					176.000,00	176.000,00				2800
+Finanzunternehmen	UniCredit Bank Austria			2	3400	Museen der Stadt Linz		894.300,00		825.507,69	825.500,00		5.735,75	5.700,00		68.792,31	68.800,00					756.715,38	756.700,00				3400
+Finanzunternehmen	UniCredit Bank Austria			1	3510	Kunst- und Kulturfoerderung		115.000,00		106.153,85	106.200,00		737,57	700		8.846,15	8.800,00					97.307,69	97.400,00				3510
+Finanzunternehmen	UniCredit Bank Austria			1	4111	Geschlossene Sozialhilfe		1.640.000,00		1.513.846,15	1.513.800,00		10.518,43	10.500,00		126.153,85	126.200,00					1.387.692,30	1.387.600,00				4111
+Finanzunternehmen	UniCredit Bank Austria			1	4290	Volkshaeuser		261.200,00		241.107,69	241.100,00		1.675,25	1.700,00		20.092,31	20.100,00					221.015,38	221.000,00				4290
+Finanzunternehmen	UniCredit Bank Austria			1	4890	Foerderung des Wohnbaues und Altwohnhausbesitzes		830.000,00		766.153,85	766.200,00		5.323,35	5.300,00		63.846,15	63.800,00					702.307,69	702.400,00				4890
+Finanzunternehmen	UniCredit Bank Austria			1	5120	Mutterberatung		4.000,00		3.692,31	3.700,00		25,65	0		307,69	300					3.384,62	3.400,00				5120
+Finanzunternehmen	UniCredit Bank Austria			1	6100	"Bundesstrazslig;en"		400.000,00		369.230,77	369.200,00		2.565,47	2.600,00		30.769,23	30.800,00					338.461,54	338.400,00				6100
+Finanzunternehmen	UniCredit Bank Austria			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		1.369.800,00		1.264.430,77	1.264.400,00		8.785,45	8.800,00		105.369,23	105.400,00					1.159.061,54	1.159.000,00				6120
+Finanzunternehmen	UniCredit Bank Austria			1	6390	Uferschutzbauten,Bachregulierung,Gewaesseraufsicht		20.000,00		18.461,54	18.500,00		128,27	100		1.538,46	1.500,00					16.923,08	17.000,00				6390
+Finanzunternehmen	UniCredit Bank Austria			1	6400	"Einrichtungen und Mazslig;nahmen nach der StVO"		201.500,00		186.000,00	186.000,00		1.292,36	1.300,00		15.500,00	15.500,00					170.500,00	170.500,00				6400
+Finanzunternehmen	UniCredit Bank Austria			1	8140	"Strazslig;enreinigung"		123.900,00		114.369,23	114.400,00		794,65	800		9.530,77	9.500,00					104.838,45	104.900,00				8140
+Finanzunternehmen	UniCredit Bank Austria			1	8160	oeffentliche Beleuchtung und oeffentliche Uhren		973.000,00		898.153,85	898.200,00		6.240,51	6.200,00		74.846,15	74.800,00					823.307,69	823.400,00				8160
+Finanzunternehmen	UniCredit Bank Austria			2	8401	Grundbesitz - oeffentliches Gut		120.000,00		110.769,23	110.800,00		769,64	800		9.230,77	9.200,00					101.538,46	101.600,00				8401
+Finanzunternehmen	UniCredit Bank Austria			2	8590	Maerkte		10.000,00		9.230,77	9.200,00		64,14	100		769,23	800					8.461,54	8.400,00				8590
+Finanzunternehmen	UniCredit Bank Austria	UniCredit 10017 631 796   (902 06 11 22)	Laufzeit von 2016 bis 2031	1	8530	Wohn- und Geschaeftsgebaeude	26.106.700,00	349.200,00	26.106.700,00	349.200,00	349.200,00	225.101,63	3.010,93	3.000,00	1.740.446,67	23.280,00	23.300,00	0			24.366.253,33	325.920,00	325.900,00	0			8530
+Finanzunternehmen	UniCredit Bank Austria			2	8590	Maerkte		10.000,00		10.000,00	10.000,00		86,22	100		666,67	700					9.333,33	9.300,00				8590
+Finanzunternehmen	UniCredit Bank Austria			1	8790	Linz AG		6.552.200,00		6.552.200,00	6.552.200,00		56.495,49	56.500,00		436.813,33	436.800,00					6.115.386,67	6.115.400,00				8790
+Finanzunternehmen	UniCredit Bank Austria			1	8993	Immobilien Linz GmbH		13.031.300,00		13.031.300,00	13.031.300,00		112.360,69	112.400,00		868.753,33	868.800,00					12.162.546,67	12.162.500,00				8993
+Finanzunternehmen	UniCredit Bank Austria			1	8995	Informations- und Kommunikationstechnologie		164.000,00		164.000,00	164.000,00		1.414,08	1.400,00		10.933,34	10.900,00					153.066,66	153.100,00				8995
+Finanzunternehmen	UniCredit Bank Austria			1	9500	Aufgenommene Darlehen,Schuldendienst		6.000.000,00		6.000.000,00	6.000.000,00		51.734,22	51.700,00		400.000,00	400.000,00					5.600.000,00	5.600.000,00				9500
+Finanzunternehmen	UniCredit Bank Austria	Unicredit  IBAN AT41 1200 0100 1333 0484    (902-06/11/21)	Laufzeit von 2015 bis 2030	2	8530	Wohn- und Geschaeftsgebaeude	15.000.000,00	150.000,00	15.000.000,00	150.000,00	150.000,00	121.666,66	1.216,67	1.200,00	0	0	0	0			15.000.000,00	150.000,00	150.000,00	0			8530
+Finanzunternehmen	UniCredit Bank Austria			2	8590	Maerkte		50.000,00		50.000,00	50.000,00		405,55	400		0	0					50.000,00	50.000,00				8590
+Finanzunternehmen	UniCredit Bank Austria			1	8993	Immobilien Linz GmbH		14.800.000,00		14.800.000,00	14.800.000,00		120.044,44	120.000,00		0	0					14.800.000,00	14.800.000,00				8993
+Finanzunternehmen	UniCredit Bank Austria	UniCredit     400 139 507           (902-06/11/09)	Laufzeit von 2001 bis 2017	2	8994	Allgemeines oeffentliches Krankenhaus d.Stadt Linz	6.075.000,00	4.975.004,47	232.233,01	232.233,01	232.200,00	0,01	0,01	0	232.233,01	232.233,01	232.200,00	0			0	0	0	0			8994
+Finanzunternehmen	UniCredit Bank Austria	UniCredit     400 139 515              (902-06/11/10)	Laufzeit von 2001 bis 2017	2	2690	Koerperliche Ertuechtigung	2.834.000,00	2.320.849,83	108.337,18	108.337,18	108.300,00	0,01	0,01	0	108.337,18	108.337,18	108.300,00	0			0	0	0	0			2690
+Finanzunternehmen	UniCredit Bank Austria	UniCredit    53 266/683.522         (902-06/11/14)SZ-Glimpfingerstr.10a Zusch.L.Ooe.	Laufzeit von 2009 bis 2025	2	8530	Wohn- und Geschaeftsgebaeude	234.430,00	234.430,00	131.858,61	131.858,61	131.900,00	518,24	518,24	500	16.266,94	16.266,94	16.300,00	0			115.591,67	115.591,67	115.600,00	0			8530
+Finanzunternehmen	UniCredit Bank Austria	UniCredit    53 510/380.297         (902-06/11/13)SZ-Glimpfingerstr.10a Zusch.L.Ooe.	Laufzeit von 2007 bis 2022	2	8530	Wohn- und Geschaeftsgebaeude	1.066.020,00	1.066.020,00	455.088,18	455.088,18	455.100,00	4,43	4,43	0	76.235,75	76.235,75	76.200,00	0			378.852,43	378.852,43	378.900,00	0			8530
+Finanzunternehmen	UniCredit Bank Austria	UniCredit      53000 204 932          (902-06/11/12)	Laufzeit von 2003 bis 2019	1	1630	Freiwillige Feuerwehren	19.700.000,00	833.333,33	3.283.333,33	166.666,67	166.700,00	6.137,65	311,56	300	1.313.333,32	66.666,67	66.700,00	0			1.970.000,01	100.000,00	100.000,00	0			1630
+Finanzunternehmen	UniCredit Bank Austria			1	2101	Allgemeinbildende Pflichtschulen -Gebaeudemanagement		833.333,33		166.666,67	166.700,00		311,56	300		66.666,67	66.700,00					100.000,00	100.000,00				2101
+Finanzunternehmen	UniCredit Bank Austria			2	2690	Koerperliche Ertuechtigung		4.166.666,67		833.333,33	833.300,00		1.557,78	1.600,00		333.333,33	333.300,00					500.000,00	500.000,00				2690
+Finanzunternehmen	UniCredit Bank Austria			2	3291	Linzer Veranstaltungsgesellschaft		333.333,33		66.666,67	66.700,00		124,62	100		26.666,67	26.700,00					40.000,00	40.000,00				3291
+Finanzunternehmen	UniCredit Bank Austria			1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"		3.333.333,33		666.666,67	666.700,00		1.246,22	1.200,00		266.666,66	266.700,00					400.000,00	400.000,00				6121
+Finanzunternehmen	UniCredit Bank Austria			1	6510	Sonstige Schienenwege		833.333,33		166.666,67	166.700,00		311,56	300		66.666,67	66.700,00					100.000,00	100.000,00				6510
+Finanzunternehmen	UniCredit Bank Austria			1	7890	Foerderung von Handel, Gewerbe und Industrie		833.333,33		166.666,67	166.700,00		311,56	300		66.666,67	66.700,00					100.000,00	100.000,00				7890
+Finanzunternehmen	UniCredit Bank Austria			2	8530	Wohn- und Geschaeftsgebaeude		500.000,00		100.000,00	100.000,00		186,93	200		40.000,00	40.000,00					60.000,00	60.000,00				8530
+Finanzunternehmen	UniCredit Bank Austria			2	8782	Seniorenzentren der Stadt Linz		1.750.000,00		350.000,00	350.000,00		654,27	700		140.000,00	140.000,00					210.000,00	210.000,00				8782
+Finanzunternehmen	UniCredit Bank Austria			2	8994	Allgemeines oeffentliches Krankenhaus d.Stadt Linz		1.500.000,00		300.000,00	300.000,00		560,8	600		120.000,00	120.000,00					180.000,00	180.000,00				8994
+Finanzunternehmen	UniCredit Bank Austria			1	9140	Beteiligungen		1.500.000,00		299.999,98	300.000,00		560,79	600		119.999,98	120.000,00					180.000,01	180.000,00				9140
+Finanzunternehmen	UniCredit Bank Austria	UniCredit    53260 228 969          (902-06/11/18)	Laufzeit von 2010 bis 2036	1	610	Sonstige Subventionen	30.000.000,00	2.441.000,00	28.536.585,36	2.321.926,83	2.321.900,00	122.230,98	9.945,53	9.900,00	1.463.414,64	119.073,17	119.100,00	0			27.073.170,72	2.202.853,66	2.202.800,00	0			610
+Finanzunternehmen	UniCredit Bank Austria			1	1620	Berufsfeuerwehr		650.000,00		618.292,68	618.300,00		2.648,34	2.600,00		31.707,32	31.700,00					586.585,37	586.600,00				1620
+Finanzunternehmen	UniCredit Bank Austria			1	2290	"Sonst.Einrichtungen u.Mazslig;nahmen-berufsbildender Unterricht"		1.734.000,00		1.649.414,63	1.649.400,00		7.064,95	7.100,00		84.585,37	84.600,00					1.564.829,27	1.564.800,00				2290
+Finanzunternehmen	UniCredit Bank Austria			1	2500	Schuelerhorte		245.000,00		233.048,78	233.000,00		998,22	1.000,00		11.951,22	12.000,00					221.097,56	221.000,00				2500
+Finanzunternehmen	UniCredit Bank Austria			1	2620	Sportplaetze		472.000,00		448.975,61	449.000,00		1.923,10	1.900,00		23.024,39	23.000,00					425.951,22	426.000,00				2620
+Finanzunternehmen	UniCredit Bank Austria			1	2700	Volkshochschule Linz		1.386.000,00		1.318.390,24	1.318.400,00		5.647,07	5.600,00		67.609,76	67.600,00					1.250.780,49	1.250.800,00				2700
+Finanzunternehmen	UniCredit Bank Austria			1	2800	Foerderung von Universitaeten und Hochschulen		403.000,00		383.341,46	383.300,00		1.641,97	1.600,00		19.658,54	19.700,00					363.682,93	363.600,00				2800
+Finanzunternehmen	UniCredit Bank Austria			1	2890	Naturkundliche Station		100.000,00		95.121,95	95.100,00		407,44	400		4.878,05	4.900,00					90.243,90	90.200,00				2890
+Finanzunternehmen	UniCredit Bank Austria			1	3290	"Sonst.Einrichtungen u.Mazslig;nahmen-Musik u.darstellende Kunst"		6.891.000,00		6.554.853,66	6.554.900,00		28.076,46	28.100,00		336.146,34	336.100,00					6.218.707,31	6.218.800,00				3290
+Finanzunternehmen	UniCredit Bank Austria			1	3400	Museen der Stadt Linz		1.736.000,00		1.651.317,07	1.651.300,00		7.073,10	7.100,00		84.682,93	84.700,00					1.566.634,15	1.566.600,00				3400
+Finanzunternehmen	UniCredit Bank Austria			1	3500	ARS ELECTRONICA CENTER - Museum d. 21.Jahrhunderts		803.000,00		763.829,27	763.800,00		3.271,72	3.300,00		39.170,73	39.200,00					724.658,54	724.600,00				3500
+Finanzunternehmen	UniCredit Bank Austria			1	3630	Altstadterhaltung und Ortsbildpflege		3.595.000,00		3.419.634,15	3.419.600,00		14.647,35	14.600,00		175.365,85	175.400,00					3.244.268,29	3.244.200,00				3630
+Finanzunternehmen	UniCredit Bank Austria			1	4290	Volkshaeuser		2.144.000,00		2.039.414,63	2.039.400,00		8.735,44	8.700,00		104.585,37	104.600,00					1.934.829,27	1.934.800,00				4290
+Finanzunternehmen	UniCredit Bank Austria			1	4300	Krabbelstuben		441.000,00		419.487,80	419.500,00		1.796,80	1.800,00		21.512,20	21.500,00					397.975,61	398.000,00				4300
+Finanzunternehmen	UniCredit Bank Austria			1	4890	Foerderung des Wohnbaues und Altwohnhausbesitzes		125.000,00		118.902,44	118.900,00		509,3	500		6.097,56	6.100,00					112.804,88	112.800,00				4890
+Finanzunternehmen	UniCredit Bank Austria			1	5110	Familienberatung		286.000,00		272.048,78	272.000,00		1.165,27	1.200,00		13.951,22	14.000,00					258.097,56	258.000,00				5110
+Finanzunternehmen	UniCredit Bank Austria			1	6110	"Landesstrazslig;en"		89.000,00		84.658,54	84.700,00		362,62	400		4.341,46	4.300,00					80.317,07	80.400,00				6110
+Finanzunternehmen	UniCredit Bank Austria			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		1.999.000,00		1.901.487,80	1.901.500,00		8.144,66	8.100,00		97.512,20	97.500,00					1.803.975,61	1.804.000,00				6120
+Finanzunternehmen	UniCredit Bank Austria			1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"		4.460.000,00		4.242.439,04	4.242.400,00		18.171,64	18.200,00		217.560,96	217.600,00					4.024.878,03	4.024.800,00				6121
+Finanzunternehmen	UniCredit Bank Austria	UniCredit     53507 655 529          (902-06/11/16)	Laufzeit von 2009 bis 2020	1	6100	"Bundesstrazslig;en"	20.000.000,00	292.500,00	7.000.000,00	136.500,00	136.500,00	209.263,11	4.080,63	4.100,00	2.000.000,00	39.000,00	39.000,00	0			5.000.000,00	97.500,00	97.500,00	0			6100
+Finanzunternehmen	UniCredit Bank Austria			1	6110	"Landesstrazslig;en"		49.500,00		23.100,00	23.100,00		690,57	700		6.600,00	6.600,00					16.500,00	16.500,00				6110
+Finanzunternehmen	UniCredit Bank Austria			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		1.755.000,00		819.000,00	819.000,00		24.483,78	24.500,00		234.000,00	234.000,00					585.000,00	585.000,00				6120
+Finanzunternehmen	UniCredit Bank Austria			1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"		555.750,00		259.350,00	259.400,00		7.753,20	7.800,00		74.100,00	74.100,00					185.250,00	185.300,00				6121
+Finanzunternehmen	UniCredit Bank Austria			1	6122	Bruecken		180.000,00		84.000,00	84.000,00		2.511,16	2.500,00		24.000,00	24.000,00					60.000,00	60.000,00				6122
+Finanzunternehmen	UniCredit Bank Austria			1	6290	"Allgemeiner Wasserbau, sonstige Mazslig;nahmen"		17.250,00		8.050,00	8.100,00		240,65	200		2.300,00	2.300,00					5.750,00	5.800,00				6290
+Finanzunternehmen	UniCredit Bank Austria			1	6390	Uferschutzbauten,Bachregulierung,Gewaesseraufsicht		12.000,00		5.600,00	5.600,00		167,41	200		1.600,00	1.600,00					4.000,00	4.000,00				6390
+Finanzunternehmen	UniCredit Bank Austria			1	6400	"Einrichtungen und Mazslig;nahmen nach der StVO"		213.750,00		99.750,00	99.800,00		2.982,00	3.000,00		28.500,00	28.500,00					71.250,00	71.300,00				6400
+Finanzunternehmen	UniCredit Bank Austria			1	8120	WC-Anlagen		27.750,00		12.950,00	13.000,00		387,14	400		3.700,00	3.700,00					9.250,00	9.300,00				8120
+Finanzunternehmen	UniCredit Bank Austria			1	8150	oeffentliche Anlagen		331.500,00		154.700,00	154.700,00		4.624,71	4.600,00		44.200,00	44.200,00					110.500,00	110.500,00				8150
+Finanzunternehmen	UniCredit Bank Austria			1	8151	Kinderspielplaetze		168.750,00		78.750,00	78.800,00		2.354,21	2.400,00		22.500,00	22.500,00					56.250,00	56.300,00				8151
+Finanzunternehmen	UniCredit Bank Austria			1	8160	oeffentliche Beleuchtung und oeffentliche Uhren		765.000,00		357.000,00	357.000,00		10.672,42	10.700,00		102.000,00	102.000,00					255.000,00	255.000,00				8160
+Finanzunternehmen	UniCredit Bank Austria			2	8530	Wohn- und Geschaeftsgebaeude		1.650.000,00		770.000,00	770.000,00		23.018,94	23.000,00		220.000,00	220.000,00					550.000,00	550.000,00				8530
+Finanzunternehmen	UniCredit Bank Austria			2	8590	Maerkte		1.125.000,00		525.000,00	525.000,00		15.694,73	15.700,00		150.000,00	150.000,00					375.000,00	375.000,00				8590
+Finanzunternehmen	UniCredit Bank Austria			1	9140	Beteiligungen		7.856.250,00		3.666.250,00	3.666.300,00		109.601,56	109.600,00		1.047.500,00	1.047.500,00					2.618.750,00	2.618.800,00				9140
+Finanzunternehmen	UniCredit Bank Austria	UniCredit     800 133 810/03     (902-06/11/19)	Laufzeit von 2012 bis 2020	1	1630	Freiwillige Feuerwehren	20.896.479,05	166.666,67	3.775.255,42	30.110,78	30.100,00	18.801,52	149,96	100	1.351.033,29	10.775,61	10.800,00	0			2.424.222,13	19.335,17	19.300,00	0			1630
+Finanzunternehmen	UniCredit Bank Austria			1	2101	Allgemeinbildende Pflichtschulen -Gebaeudemanagement		166.666,67		30.110,78	30.100,00		149,96	100		10.775,61	10.800,00					19.335,17	19.300,00				2101
+Finanzunternehmen	UniCredit Bank Austria			2	2690	Koerperliche Ertuechtigung		1.346.483,50		243.261,99	243.300,00		1.211,49	1.200,00		87.055,05	87.100,00					156.206,94	156.200,00				2690
+Finanzunternehmen	UniCredit Bank Austria			2	3291	Linzer Veranstaltungsgesellschaft		66.666,67		12.044,31	12.000,00		59,98	100		4.310,24	4.300,00					7.734,07	7.700,00				3291
+Finanzunternehmen	UniCredit Bank Austria			1	6100	"Bundesstrazslig;en"		97.500,00		17.614,80	17.600,00		87,73	100		6.303,73	6.300,00					11.311,08	11.300,00				6100
+Finanzunternehmen	UniCredit Bank Austria			1	6110	"Landesstrazslig;en"		16.500,00		2.980,97	3.000,00		14,85	0		1.066,78	1.100,00					1.914,18	1.900,00				6110
+Finanzunternehmen	UniCredit Bank Austria			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		585.000,00		105.688,83	105.700,00		526,35	500		37.822,38	37.800,00					67.866,45	67.900,00				6120
+Finanzunternehmen	UniCredit Bank Austria			1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"		851.916,67		153.911,24	153.900,00		766,51	800		55.079,51	55.100,00					98.831,73	98.800,00				6121
+Finanzunternehmen	UniCredit Bank Austria			1	6122	Bruecken		60.000,00		10.839,88	10.800,00		53,98	100		3.879,22	3.900,00					6.960,66	6.900,00				6122
+Finanzunternehmen	UniCredit Bank Austria			1	6290	"Allgemeiner Wasserbau, sonstige Mazslig;nahmen"		5.750,00		1.038,82	1.000,00		5,17	0		371,76	400					667,06	600				6290
+Finanzunternehmen	UniCredit Bank Austria			1	6390	Uferschutzbauten,Bachregulierung,Gewaesseraufsicht		4.000,00		722,66	700		3,6	0		258,61	300					464,04	400				6390
+Finanzunternehmen	UniCredit Bank Austria			1	6400	"Einrichtungen und Mazslig;nahmen nach der StVO"		71.250,00		12.872,36	12.900,00		64,11	100		4.606,57	4.600,00					8.265,79	8.300,00				6400
+Finanzunternehmen	UniCredit Bank Austria			1	6510	Sonstige Schienenwege		166.666,67		30.110,78	30.100,00		149,96	100		10.775,61	10.800,00					19.335,17	19.300,00				6510
+Finanzunternehmen	UniCredit Bank Austria			1	7890	Foerderung von Handel, Gewerbe und Industrie		166.666,67		30.110,78	30.100,00		149,96	100		10.775,61	10.800,00					19.335,17	19.300,00				7890
+Finanzunternehmen	UniCredit Bank Austria			1	8120	WC-Anlagen		9.250,00		1.671,15	1.700,00		8,32	0		598,05	600					1.073,10	1.100,00				8120
+Finanzunternehmen	UniCredit Bank Austria			1	8150	oeffentliche Anlagen		110.500,00		19.963,45	20.000,00		99,42	100		7.144,23	7.100,00					12.819,22	12.900,00				8150
+Finanzunternehmen	UniCredit Bank Austria			1	8151	Kinderspielplaetze		56.250,00		10.162,39	10.200,00		50,61	100		3.636,77	3.600,00					6.525,62	6.600,00				8151
+Finanzunternehmen	UniCredit Bank Austria			1	8160	oeffentliche Beleuchtung und oeffentliche Uhren		255.000,00		46.069,49	46.100,00		229,44	200		16.486,68	16.500,00					29.582,81	29.600,00				8160
+Finanzunternehmen	UniCredit Bank Austria			2	8530	Wohn- und Geschaeftsgebaeude		650.000,00		117.432,03	117.400,00		584,83	600		42.024,86	42.000,00					75.407,17	75.400,00				8530
+Finanzunternehmen	UniCredit Bank Austria			2	8590	Maerkte		375.000,00		67.749,25	67.700,00		337,4	300		24.245,11	24.200,00					43.504,14	43.500,00				8590
+Finanzunternehmen	UniCredit Bank Austria			2	8782	Seniorenzentren der Stadt Linz		350.000,00		63.232,63	63.200,00		314,91	300		22.628,77	22.600,00					40.603,86	40.600,00				8782
+Finanzunternehmen	UniCredit Bank Austria			2	8993	Immobilien Linz GmbH		6.541.500,00		1.181.817,92	1.181.800,00		5.885,69	5.900,00		422.931,74	422.900,00					758.886,18	758.900,00				8993
+Finanzunternehmen	UniCredit Bank Austria			2	8994	Allgemeines oeffentliches Krankenhaus d.Stadt Linz		1.399.995,53		252.929,73	252.900,00		1.259,64	1.300,00		90.514,80	90.500,00					162.414,93	162.400,00				8994
+Finanzunternehmen	UniCredit Bank Austria			1	9140	Beteiligungen		6.049.250,00		1.092.885,73	1.092.900,00		5.442,79	5.400,00		391.105,99	391.100,00					701.779,74	701.800,00				9140
+Finanzunternehmen	UniCredit Bank Austria			1	9500	Aufgenommene Darlehen,Schuldendienst		1.328.000,00		239.922,67	239.900,00		1.194,86	1.200,00		85.860,00	85.900,00					154.062,68	154.000,00				9500
+	UniCredit Bank Austria Ergebnis						153611729,1	143.715.250,00	95428560,31	95.428.560,31	95.428.900,00	778758,47	778.758,47	778.600,00	9201231,58	9.201.231,58	9.201.400,00	0	0	0	86227328,73	86.227.328,73	86.227.500,00	0	0	0	
+Finanzunternehmen	Wuestenrot Versicherungs AG 	Schuldschein vom 22.1.2015     (902 06 22 04)	Laufzeit von 2015 bis 2055	1	610	Sonstige Subventionen	15.000.000,00	1.649.200,00	15.000.000,00	1.649.200,00	1.649.200,00	427.500,00	47.002,20	47.000,00	0						15.000.000,00	1.649.200,00	1.649.200,00	0			610
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	1620	Berufsfeuerwehr		292.300,00		292.300,00	292.300,00		8.330,55	8.300,00								292.300,00	292.300,00				1620
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	2100	Allgemeinbildende Pflichtschulen		72.600,00		72.600,00	72.600,00		2.069,10	2.100,00								72.600,00	72.600,00				2100
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	2290	"Sonst.Einrichtungen u.Mazslig;nahmen-berufsbildender Unterricht"		500.000,00		500.000,00	500.000,00		14.250,00	14.300,00								500.000,00	500.000,00				2290
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	2620	Sportplaetze		40.000,00		40.000,00	40.000,00		1.140,00	1.100,00								40.000,00	40.000,00				2620
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	2690	Koerperliche Ertuechtigung		204.700,00		204.700,00	204.700,00		5.833,95	5.800,00								204.700,00	204.700,00				2690
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	2700	Volkshochschule Linz		1.023.300,00		1.023.300,00	1.023.300,00		29.164,05	29.200,00								1.023.300,00	1.023.300,00				2700
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	2730	Stadtbibliothek Linz		47.800,00		47.800,00	47.800,00		1.362,30	1.400,00								47.800,00	47.800,00				2730
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	3290	"Sonst.Einrichtungen u.Mazslig;nahmen-Musik u.darstellende Kunst"		1.096.000,00		1.096.000,00	1.096.000,00		31.236,00	31.200,00								1.096.000,00	1.096.000,00				3290
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	3400	Museen der Stadt Linz		1.500.000,00		1.500.000,00	1.500.000,00		42.750,00	42.800,00								1.500.000,00	1.500.000,00				3400
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	3500	ARS ELECTRONICA CENTER - Museum d. 21.Jahrhunderts		500.000,00		500.000,00	500.000,00		14.250,00	14.300,00								500.000,00	500.000,00				3500
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	3510	Kunst- und Kulturfoerderung		100.700,00		100.700,00	100.700,00		2.869,95	2.900,00								100.700,00	100.700,00				3510
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	3630	Altstadterhaltung und Ortsbildpflege		1.171.900,00		1.171.900,00	1.171.900,00		33.399,15	33.400,00								1.171.900,00	1.171.900,00				3630
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	4010	Soziales-, Jugend und Familie		164.900,00		164.900,00	164.900,00		4.699,65	4.700,00								164.900,00	164.900,00				4010
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	4111	Geschlossene Sozialhilfe		1.349.300,00		1.349.300,00	1.349.300,00		38.455,05	38.500,00								1.349.300,00	1.349.300,00				4111
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	4290	Volkshaeuser		203.000,00		203.000,00	203.000,00		5.785,50	5.800,00								203.000,00	203.000,00				4290
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	4890	Foerderung des Wohnbaues und Altwohnhausbesitzes		541.000,00		541.000,00	541.000,00		15.418,50	15.400,00								541.000,00	541.000,00				4890
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	6100	"Bundesstrazslig;en"		243.300,00		243.300,00	243.300,00		6.934,05	6.900,00								243.300,00	243.300,00				6100
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	6110	"Landesstrazslig;en"		327.900,00		327.900,00	327.900,00		9.345,15	9.300,00								327.900,00	327.900,00				6110
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		609.479,76		609.479,76	609.500,00		17.370,17	17.400,00								609.479,76	609.500,00				6120
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	6400	"Einrichtungen und Mazslig;nahmen nach der StVO"		304.900,00		304.900,00	304.900,00		8.689,65	8.700,00								304.900,00	304.900,00				6400
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	7890	Foerderung von Handel, Gewerbe und Industrie		49.500,00		49.500,00	49.500,00		1.410,75	1.400,00								49.500,00	49.500,00				7890
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	8150	oeffentliche Anlagen		500.000,00		500.000,00	500.000,00		14.250,00	14.300,00								500.000,00	500.000,00				8150
+Finanzunternehmen	Wuestenrot Versicherungs AG 			2	8950	Design Center Linz		2.433.220,24		2.433.220,24	2.433.200,00		69.346,78	69.300,00								2.433.220,24	2.433.200,00				8950
+Finanzunternehmen	Wuestenrot Versicherungs AG 			1	9510	Aufgenommene Anleihen,Schuldendienst		75.000,00		75.000,00	75.000,00		2.137,50	2.100,00								75.000,00	75.000,00				9510
+	Wuestenrot Versicherungs AG  Ergebnis						15000000	15.000.000,00	15000000	15.000.000,00	15.000.000,00	427500	427.500,00	427.600,00	0	0	0	0	0	0	15000000	15.000.000,00	15.000.000,00	0	0	0	
+Finanzunternehmen	Volksbank Ooe	Volksbank IBAN AT62 4480 0101 2356 2000       (902 06 12 01)	Laufzeit von 2015 bis 2025	1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"	3.863.300,00	3.300.000,00	3863300	3.300.000,00	3.300.000,00	34270,7	29.273,76	29.300,00	429255,56	366.666,67	366.700,00	0			3434044,44	2.933.333,33	2.933.300,00	0			6121
+Finanzunternehmen	Volksbank Ooe			1	9500	Aufgenommene Darlehen,Schuldendienst		563.300,00		563.300,00	563.300,00		4.996,94	5.000,00		62.588,89	62.600,00					500.711,11	500.700,00				9500
+	Volksbank Ooe Ergebnis						3863300	3.863.300,00	3863300	3.863.300,00	3.863.300,00	34270,7	34.270,70	34.300,00	429255,56	429.255,56	429.300,00	0	0	0	3434044,44	3.434.044,44	3.434.000,00	0	0	0	
+Finanzunternehmen	RB Region Steyr eGen	RB Steyr AT08 3411 4000 2014 6163  RB Region Steyr  (902 06 10 24)	Laufzeit von 2016 bis 2031	1	9500	Aufgenommene Darlehen,Schuldendienst	5.000.000,00	5.000.000,00	5.000.000,00	5.000.000,00	5.000.000,00	63.368,05	63.368,05	63.400,00	178.571,43	178.571,43	178.600,00	0			4.821.428,57	4.821.428,57	4.821.400,00	0			9500
+	RB Region Steyr eGen Ergebnis						5.000.000,00	5.000.000,00	5.000.000,00	5.000.000,00	5.000.000,00	63.368,05	63.368,05	63.400,00	178.571,43	178.571,43	178.600,00	0	0	0	4.821.428,57	4.821.428,57	4.821.400,00	0	0	0	
+Finanzunternehmen	RB Wels eGen	RB Wels   AT25 3468 0000 2055 8284  Wels    (902 06 10 23)	Laufzeit von 2016 bis 2026	1	9500	Aufgenommene Darlehen,Schuldendienst	10.000.000,00	10.000.000,00	10.000.000,00	10.000.000,00	10.000.000,00	123.334,66	123.334,66	123.300,00	1.000.000,00	1.000.000,00	1.000.000,00	0			9.000.000,00	9.000.000,00	9.000.000,00	0			9500
+	RB Wels eGen Ergebnis						10.000.000,00	10.000.000,00	10.000.000,00	10.000.000,00	10.000.000,00	123.334,66	123.334,66	123.300,00	1.000.000,00	1.000.000,00	1.000.000,00	0	0	0	9.000.000,00	9.000.000,00	9.000.000,00	0	0	0	
+Finanzunternehmen	BKS Bank AG	BKS Bank AG  AT66 1700 0001 9809 3963  (902 06 13 01)	Laufzeit von 2016 bis 2026	1	9500	Aufgenommene Darlehen,Schuldendienst	3.000.000,00	3.000.000,00	2.850.000,00	2.850.000,00	2.850.000,00	36.035,09	36.035,09	36.000,00	300.000,00	300.000,00	300.000,00	0			2.550.000,00	2.550.000,00	2.550.000,00	0			9500
+	BKS Bank AG Ergebnis						3.000.000,00	3.000.000,00	2.850.000,00	2.850.000,00	2.850.000,00	36.035,09	36.035,09	36.000,00	300.000,00	300.000,00	300.000,00	0	0	0	2.550.000,00	2.550.000,00	2.550.000,00	0	0	0	
+Finanzunternehmen Ausland	Debeka Krankenversicherung 	Schuldschein vom 03.07.2014    (902 06 22 02)	Laufzeit von 2014 bis 2039	1	310	Stadtentwicklung und Bebauungsplanung	23.000.000,00	1.365.753,15	23.000.000,00	1.365.753,15	1.365.800,00	690.000,00	40.972,59	41.000,00	0						23.000.000,00	1.365.753,15	1.365.800,00	0			310
+Finanzunternehmen Ausland	Debeka Krankenversicherung 			1	2101	Allgemeinbildende Pflichtschulen -Gebaeudemanagement		349.673,11		349.673,11	349.700,00		10.490,19	10.500,00								349.673,11	349.700,00				2101
+Finanzunternehmen Ausland	Debeka Krankenversicherung 			1	2290	"Sonst.Einrichtungen u.Mazslig;nahmen-berufsbildender Unterricht"		616.364,93		616.364,93	616.300,00		18.490,95	18.500,00								616.364,93	616.300,00				2290
+Finanzunternehmen Ausland	Debeka Krankenversicherung 			1	2400	Kindergaerten		1.904.010,78		1.904.010,78	1.904.000,00		57.120,32	57.100,00								1.904.010,78	1.904.000,00				2400
+Finanzunternehmen Ausland	Debeka Krankenversicherung 			1	2500	Schuelerhorte		1.178.875,67		1.178.875,67	1.178.900,00		35.366,27	35.400,00								1.178.875,67	1.178.900,00				2500
+Finanzunternehmen Ausland	Debeka Krankenversicherung 			1	2590	Jugendklubs		253.797,36		253.797,36	253.800,00		7.613,92	7.600,00								253.797,36	253.800,00				2590
+Finanzunternehmen Ausland	Debeka Krankenversicherung 			2	2690	Koerperliche Ertuechtigung		1.486.526,79		1.486.526,79	1.486.500,00		44.595,81	44.600,00								1.486.526,79	1.486.500,00				2690
+Finanzunternehmen Ausland	Debeka Krankenversicherung 			1	3500	ARS ELECTRONICA CENTER - Museum d. 21.Jahrhunderts		108.770,18		108.770,18	108.800,00		3.263,11	3.300,00								108.770,18	108.800,00				3500
+Finanzunternehmen Ausland	Debeka Krankenversicherung 			1	3630	Altstadterhaltung und Ortsbildpflege		1.196.472,84		1.196.472,84	1.196.500,00		35.894,19	35.900,00								1.196.472,84	1.196.500,00				3630
+Finanzunternehmen Ausland	Debeka Krankenversicherung 			1	4293	Herbergen		290.053,96		290.053,96	290.000,00		8.701,62	8.700,00								290.053,96	290.000,00				4293
+Finanzunternehmen Ausland	Debeka Krankenversicherung 			1	5010	Technik und Umwelt		1.232.729,42		1.232.729,42	1.232.700,00		36.981,88	37.000,00								1.232.729,42	1.232.700,00				5010
+Finanzunternehmen Ausland	Debeka Krankenversicherung 			1	6100	"Bundesstrazslig;en"		108.770,18		108.770,18	108.800,00		3.263,11	3.300,00								108.770,18	108.800,00				6100
+Finanzunternehmen Ausland	Debeka Krankenversicherung 			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		4.286.187,90		4.286.187,90	4.286.200,00		128.585,64	128.600,00								4.286.187,90	4.286.200,00				6120
+Finanzunternehmen Ausland	Debeka Krankenversicherung 			1	7890	Foerderung von Handel, Gewerbe und Industrie		2.601.375,91		2.601.375,91	2.601.400,00		78.041,28	78.000,00								2.601.375,91	2.601.400,00				7890
+Finanzunternehmen Ausland	Debeka Krankenversicherung 			1	9140	Beteiligungen		5.905.637,82		5.905.637,82	5.905.600,00		177.169,13	177.200,00								5.905.637,82	5.905.600,00				9140
+Finanzunternehmen Ausland	Debeka Krankenversicherung 			1	9500	Aufgenommene Darlehen,Schuldendienst		115.000,00		115.000,00	115.000,00		3.449,99	3.400,00								115.000,00	115.000,00				9500
+	Debeka Krankenversicherung  Ergebnis						23000000	23.000.000,00	23000000	23.000.000,00	23.000.000,00	690000	690.000,00	690.000,00	0	0	0	0	0	0	23000000	23.000.000,00	23.000.000,00	0	0	0	
+Finanzunternehmen Ausland	Debeka Lebensversicherung	Schuldschein vom 03.07.2014    (902 06 22 02)	Laufzeit von 2014 bis 2039	1	310	Stadtentwicklung und Bebauungsplanung	40.000.000,00	2.375.222,87	40.000.000,00	2.375.222,87	2.375.200,00	1.200.000,00	71.256,69	71.300,00	0						40.000.000,00	2.375.222,87	2.375.200,00	0			310
+Finanzunternehmen Ausland	Debeka Lebensversicherung			1	2101	Allgemeinbildende Pflichtschulen -Gebaeudemanagement		608.127,16		608.127,16	608.100,00		18.243,81	18.200,00								608.127,16	608.100,00				2101
+Finanzunternehmen Ausland	Debeka Lebensversicherung			1	2290	"Sonst.Einrichtungen u.Mazslig;nahmen-berufsbildender Unterricht"		1.071.939,00		1.071.939,00	1.071.900,00		32.158,17	32.200,00								1.071.939,00	1.071.900,00				2290
+Finanzunternehmen Ausland	Debeka Lebensversicherung			1	2400	Kindergaerten		3.311.323,09		3.311.323,09	3.311.300,00		99.339,69	99.300,00								3.311.323,09	3.311.300,00				2400
+Finanzunternehmen Ausland	Debeka Lebensversicherung			1	2500	Schuelerhorte		2.050.218,55		2.050.218,55	2.050.200,00		61.506,56	61.500,00								2.050.218,55	2.050.200,00				2500
+Finanzunternehmen Ausland	Debeka Lebensversicherung			1	2590	Jugendklubs		441.386,74		441.386,74	441.400,00		13.241,60	13.200,00								441.386,74	441.400,00				2590
+Finanzunternehmen Ausland	Debeka Lebensversicherung			2	2690	Koerperliche Ertuechtigung		2.585.263,99		2.585.263,99	2.585.300,00		77.557,92	77.600,00								2.585.263,99	2.585.300,00				2690
+Finanzunternehmen Ausland	Debeka Lebensversicherung			1	3500	ARS ELECTRONICA CENTER - Museum d. 21.Jahrhunderts		189.165,52		189.165,52	189.200,00		5.674,97	5.700,00								189.165,52	189.200,00				3500
+Finanzunternehmen Ausland	Debeka Lebensversicherung			1	3630	Altstadterhaltung und Ortsbildpflege		2.080.822,33		2.080.822,33	2.080.800,00		62.424,67	62.400,00								2.080.822,33	2.080.800,00				3630
+Finanzunternehmen Ausland	Debeka Lebensversicherung			1	4293	Herbergen		504.441,66		504.441,66	504.500,00		15.133,25	15.100,00								504.441,66	504.500,00				4293
+Finanzunternehmen Ausland	Debeka Lebensversicherung			1	5010	Technik und Umwelt		2.143.877,26		2.143.877,26	2.143.900,00		64.316,32	64.300,00								2.143.877,26	2.143.900,00				5010
+Finanzunternehmen Ausland	Debeka Lebensversicherung			1	6100	"Bundesstrazslig;en"		189.165,52		189.165,52	189.200,00		5.674,97	5.700,00								189.165,52	189.200,00				6100
+Finanzunternehmen Ausland	Debeka Lebensversicherung			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		7.454.239,82		7.454.239,82	7.454.200,00		223.627,19	223.600,00								7.454.239,82	7.454.200,00				6120
+Finanzunternehmen Ausland	Debeka Lebensversicherung			1	7890	Foerderung von Handel, Gewerbe und Industrie		4.524.028,19		4.524.028,19	4.524.000,00		135.720,85	135.700,00								4.524.028,19	4.524.000,00				7890
+Finanzunternehmen Ausland	Debeka Lebensversicherung			1	9140	Beteiligungen		10.270.778,30		10.270.778,30	10.270.800,00		308.123,35	308.100,00								10.270.778,30	10.270.800,00				9140
+Finanzunternehmen Ausland	Debeka Lebensversicherung			1	9500	Aufgenommene Darlehen,Schuldendienst		200.000,00		200.000,00	200.000,00		5.999,99	6.000,00								200.000,00	200.000,00				9500
+	Debeka Lebensversicherung Ergebnis						40000000	40.000.000,00	40000000	40.000.000,00	40.000.000,00	1200000	1.200.000,00	1.200.000,00	0	0	0	0	0	0	40000000	40.000.000,00	40.000.000,00	0	0	0	
+Finanzunternehmen Ausland	Debeka Zusatzversorgungskasse	Schuldschein vom 03.07.2014    (902 06 22 02)	Laufzeit von 2014 bis 2039	1	310	Stadtentwicklung und Bebauungsplanung	2.000.000,00	118.761,14	2.000.000,00	118.761,14	118.800,00	60.000,00	3.562,83	3.600,00	0						2.000.000,00	118.761,14	118.800,00	0			310
+Finanzunternehmen Ausland	Debeka Zusatzversorgungskasse			1	2101	Allgemeinbildende Pflichtschulen -Gebaeudemanagement		30.406,36		30.406,36	30.400,00		912,19	900								30.406,36	30.400,00				2101
+Finanzunternehmen Ausland	Debeka Zusatzversorgungskasse			1	2290	"Sonst.Einrichtungen u.Mazslig;nahmen-berufsbildender Unterricht"		53.596,95		53.596,95	53.600,00		1.607,91	1.600,00								53.596,95	53.600,00				2290
+Finanzunternehmen Ausland	Debeka Zusatzversorgungskasse			1	2400	Kindergaerten		165.566,15		165.566,15	165.500,00		4.966,98	5.000,00								165.566,15	165.500,00				2400
+Finanzunternehmen Ausland	Debeka Zusatzversorgungskasse			1	2500	Schuelerhorte		102.510,93		102.510,93	102.500,00		3.075,33	3.100,00								102.510,93	102.500,00				2500
+Finanzunternehmen Ausland	Debeka Zusatzversorgungskasse			1	2590	Jugendklubs		22.069,34		22.069,34	22.100,00		662,08	700								22.069,34	22.100,00				2590
+Finanzunternehmen Ausland	Debeka Zusatzversorgungskasse			2	2690	Koerperliche Ertuechtigung		129.263,20		129.263,20	129.300,00		3.877,90	3.900,00								129.263,20	129.300,00				2690
+Finanzunternehmen Ausland	Debeka Zusatzversorgungskasse			1	3500	ARS ELECTRONICA CENTER - Museum d. 21.Jahrhunderts		9.458,28		9.458,28	9.500,00		283,75	300								9.458,28	9.500,00				3500
+Finanzunternehmen Ausland	Debeka Zusatzversorgungskasse			1	3630	Altstadterhaltung und Ortsbildpflege		104.041,12		104.041,12	104.000,00		3.121,23	3.100,00								104.041,12	104.000,00				3630
+Finanzunternehmen Ausland	Debeka Zusatzversorgungskasse			1	4293	Herbergen		25.222,08		25.222,08	25.200,00		756,66	800								25.222,08	25.200,00				4293
+Finanzunternehmen Ausland	Debeka Zusatzversorgungskasse			1	5010	Technik und Umwelt		107.193,86		107.193,86	107.200,00		3.215,82	3.200,00								107.193,86	107.200,00				5010
+Finanzunternehmen Ausland	Debeka Zusatzversorgungskasse			1	6100	"Bundesstrazslig;en"		9.458,28		9.458,28	9.500,00		283,75	300								9.458,28	9.500,00				6100
+Finanzunternehmen Ausland	Debeka Zusatzversorgungskasse	 		1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		372.711,99		372.711,99	372.700,00		11.181,36	11.100,00								372.711,99	372.700,00				6120
+Finanzunternehmen Ausland	Debeka Zusatzversorgungskasse			1	7890	Foerderung von Handel, Gewerbe und Industrie		226.201,38		226.201,38	226.200,00		6.786,04	6.800,00								226.201,38	226.200,00				7890
+Finanzunternehmen Ausland	Debeka Zusatzversorgungskasse			1	9140	Beteiligungen		513.538,94		513.538,94	513.500,00		15.406,17	15.300,00								513.538,94	513.500,00				9140
+Finanzunternehmen Ausland	Debeka Zusatzversorgungskasse			1	9500	Aufgenommene Darlehen,Schuldendienst		10.000,00		10.000,00	10.000,00		300	300								10.000,00	10.000,00				9500
+	Debeka Zusatzversorgungskasse Ergebnis						2000000	2.000.000,00	2000000	2.000.000,00	2.000.000,00	60000	60.000,00	60.000,00	0	0	0	0	0	0	2000000	2.000.000,00	2.000.000,00	0	0	0	
+Finanzunternehmen Ausland	Deutsche Hypothekenbank AG	Deutsche Hypothekenbank  120490112        (902-06/19/10)	Laufzeit von 2009/2010 bis 2025	1	303	Direktion Planung, Technik und Umwelt	24.000.000,00	11.000,00	13.600.000,00	6.233,33	6.200,00	474.230,00	217,36	200	1.600.000,00	733,33	700	0			12.000.000,00	5.500,00	5.500,00	0			303
+Finanzunternehmen Ausland	Deutsche Hypothekenbank AG			1	610	Sonstige Subventionen		3.289.000,00		1.863.766,67	1.863.800,00		64.989,27	65.000,00		219.266,67	219.300,00					1.644.500,00	1.644.500,00				610
+Finanzunternehmen Ausland	Deutsche Hypothekenbank AG			1	2101	Allgemeinbildende Pflichtschulen -Gebaeudemanagement		117.000,00		66.300,00	66.300,00		2.311,87	2.300,00		7.800,00	7.800,00					58.500,00	58.500,00				2101
+Finanzunternehmen Ausland	Deutsche Hypothekenbank AG			1	2290	"Sonst.Einrichtungen u.Mazslig;nahmen-berufsbildender Unterricht"		1.000.000,00		566.666,67	566.700,00		19.759,58	19.800,00		66.666,67	66.700,00					500.000,00	500.000,00				2290
+Finanzunternehmen Ausland	Deutsche Hypothekenbank AG			1	2500	Schuelerhorte		295.000,00		167.166,67	167.200,00		5.829,08	5.800,00		19.666,67	19.700,00					147.500,00	147.500,00				2500
+Finanzunternehmen Ausland	Deutsche Hypothekenbank AG			1	2620	Sportplaetze		814.000,00		461.266,67	461.300,00		16.084,30	16.100,00		54.266,67	54.300,00					407.000,00	407.000,00				2620
+Finanzunternehmen Ausland	Deutsche Hypothekenbank AG			1	2700	Volkshochschule Linz		2.000.000,00		1.133.333,33	1.133.300,00		39.519,17	39.500,00		133.333,33	133.300,00					1.000.000,00	1.000.000,00				2700
+Finanzunternehmen Ausland	Deutsche Hypothekenbank AG			1	2800	Foerderung von Universitaeten und Hochschulen		427.000,00		241.966,67	242.000,00		8.437,34	8.400,00		28.466,67	28.500,00					213.500,00	213.500,00				2800
+Finanzunternehmen Ausland	Deutsche Hypothekenbank AG			1	3290	"Sonst.Einrichtungen u.Mazslig;nahmen-Musik u.darstellende Kunst"		10.000.000,00		5.666.666,67	5.666.600,00		197.595,83	197.600,00		666.666,67	666.600,00					5.000.000,00	5.000.000,00				3290
+Finanzunternehmen Ausland	Deutsche Hypothekenbank AG			1	3400	Museen der Stadt Linz		910.000,00		515.666,67	515.700,00		17.981,22	18.000,00		60.666,67	60.700,00					455.000,00	455.000,00				3400
+Finanzunternehmen Ausland	Deutsche Hypothekenbank AG			1	3510	Kunst- und Kulturfoerderung		30.000,00		17.000,00	17.000,00		592,79	600		2.000,00	2.000,00					15.000,00	15.000,00				3510
+Finanzunternehmen Ausland	Deutsche Hypothekenbank AG			1	3630	Altstadterhaltung und Ortsbildpflege		2.892.000,00		1.638.800,00	1.638.800,00		57.144,72	57.100,00		192.800,00	192.800,00					1.446.000,00	1.446.000,00				3630
+Finanzunternehmen Ausland	Deutsche Hypothekenbank AG	 		1	4290	Volkshaeuser		2.015.000,00		1.141.833,33	1.141.800,00		39.815,56	39.800,00		134.333,33	134.300,00					1.007.500,00	1.007.500,00				4290
+Finanzunternehmen Ausland	Deutsche Hypothekenbank AG			1	4300	Krabbelstuben		74.000,00		41.933,33	41.900,00		1.462,21	1.500,00		4.933,33	4.900,00					37.000,00	37.000,00				4300
+Finanzunternehmen Ausland	Deutsche Hypothekenbank AG			1	4890	Foerderung des Wohnbaues und Altwohnhausbesitzes		116.000,00		65.733,33	65.700,00		2.292,11	2.300,00		7.733,33	7.700,00					58.000,00	58.000,00				4890
+Finanzunternehmen Ausland	Deutsche Hypothekenbank AG			1	6100	"Bundesstrazslig;en"		10.000,00		5.666,66	5.700,00		197,59	200		666,66	700					5.000,00	5.000,00				6100
+	Deutsche Hypothekenbank AG Ergebnis						24000000	24.000.000,00	13600000	13.600.000,00	13.600.000,00	474230	474.230,00	474.200,00	1600000	1.600.000,00	1.600.000,00	0	0	0	12000000	12.000.000,00	12.000.000,00	0	0	0	
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt	Schuldschein vom 12.2.2014      (902 06 20 01)	Laufzeit von 2014 bis 2034	1	290	Amtsgebaeude	16.000.000,00	71.500,00	16.000.000,00	71.500,00	71.500,00	558.080,00	2.493,92	2.500,00	0						16.000.000,00	71.500,00	71.500,00	0			290
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	311	Verkehrsplanung		79.550,61		79.550,61	79.600,00		2.774,73	2.800,00								79.550,61	79.600,00				311
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	610	Sonstige Subventionen		1.812.576,42		1.812.576,42	1.812.600,00		63.222,67	63.200,00								1.812.576,42	1.812.600,00				610
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	1630	Freiwillige Feuerwehren		5.000,00		5.000,00	5.000,00		174,4	200								5.000,00	5.000,00				1630
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	1790	Katastrophenschutz		32.119,42		32.119,42	32.100,00		1.120,33	1.100,00								32.119,42	32.100,00				1790
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	2290	"Sonst.Einrichtungen u.Mazslig;nahmen-berufsbildender Unterricht"		252.334,00		252.334,00	252.300,00		8.801,41	8.800,00								252.334,00	252.300,00				2290
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			2	2500	Schuelerhorte		140.309,94		140.309,94	140.300,00		4.894,01	4.900,00								140.309,94	140.300,00				2500
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	2620	Sportplaetze		60.000,00		60.000,00	60.000,00		2.092,80	2.100,00								60.000,00	60.000,00				2620
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			2	2690	Koerperliche Ertuechtigung		333.674,20		333.674,20	333.700,00		11.638,56	11.600,00								333.674,20	333.700,00				2690
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	2700	Volkshochschule Linz		1.693.934,10		1.693.934,10	1.693.900,00		59.084,42	59.100,00								1.693.934,10	1.693.900,00				2700
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	2800	Foerderung von Universitaeten und Hochschulen		208.334,00		208.334,00	208.300,00		7.266,69	7.300,00								208.334,00	208.300,00				2800
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	2890	Naturkundliche Station		90.000,00		90.000,00	90.000,00		3.139,20	3.100,00								90.000,00	90.000,00				2890
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	3290	"Sonst.Einrichtungen u.Mazslig;nahmen-Musik u.darstellende Kunst"		5.191.500,00		5.191.500,00	5.191.500,00		181.079,52	181.100,00								5.191.500,00	5.191.500,00				3290
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	3400	Museen der Stadt Linz		1.710.000,00		1.710.000,00	1.710.000,00		59.644,80	59.600,00								1.710.000,00	1.710.000,00				3400
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	3500	ARS ELECTRONICA CENTER - Museum d. 21.Jahrhunderts		170.000,00		170.000,00	170.000,00		5.929,60	5.900,00								170.000,00	170.000,00				3500
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	3510	Kunst- und Kulturfoerderung		108.740,00		108.740,00	108.700,00		3.792,85	3.800,00								108.740,00	108.700,00				3510
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	3630	Altstadterhaltung und Ortsbildpflege		2.143.642,00		2.143.642,00	2.143.700,00		74.770,23	74.800,00								2.143.642,00	2.143.700,00				3630
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	4111	Geschlossene Sozialhilfe		1.566.957,86		1.566.957,86	1.567.000,00		54.655,49	54.700,00								1.566.957,86	1.567.000,00				4111
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	5230	Laermbekaempfung		7.890,00		7.890,00	7.900,00		275,2	300								7.890,00	7.900,00				5230
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	6110	"Landesstrazslig;en"		53.822,64		53.822,64	53.800,00		1.877,33	1.900,00								53.822,64	53.800,00				6110
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	8160	oeffentliche Beleuchtung und oeffentliche Uhren		119.300,16		119.300,16	119.300,00		4.161,19	4.200,00								119.300,16	119.300,00				8160
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	9140	Beteiligungen		68.814,65		68.814,65	68.800,00		2.400,25	2.400,00								68.814,65	68.800,00				9140
+Finanzunternehmen Ausland	Evangel. Zusatzversorgungskasse Darmstadt			1	9500	Aufgenommene Darlehen,Schuldendienst		80.000,00		80.000,00	80.000,00		2.790,40	2.800,00								80.000,00	80.000,00				9500
+	Evangel. Zusatzversorgungskasse Darmstadt Ergebnis						16000000	16.000.000,00	16000000	16.000.000,00	16.000.000,00	558080	558.080,00	558.200,00	0	0	0	0	0	0	16000000	16.000.000,00	16.000.000,00	0	0	0	
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen	Helaba Kto 800 075 530        (902-06/19/01)	Laufzeit von 2006/2007 bis 2019	1	1790	Katastrophenschutz	42.000.000,00	100.000,00	8.750.000,00	20.833,33	20.800,00	1.593,47	3,79	0	3.500.000,00	8.333,33	8.300,00	0			5.250.000,00	12.500,00	12.500,00	0			1790
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			2	2690	Koerperliche Ertuechtigung		600.000,00		125.000,02	125.000,00		22,74	0		50.000,02	50.000,00					75.000,00	75.000,00				2690
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			1	2800	Foerderung von Universitaeten und Hochschulen		400.000,00		83.333,33	83.300,00		15,18	0		33.333,33	33.300,00					50.000,00	50.000,00				2800
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			1	3630	Altstadterhaltung und Ortsbildpflege		600.000,00		125.000,00	125.000,00		22,76	0		50.000,00	50.000,00					75.000,00	75.000,00				3630
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			1	6100	"Bundesstrazslig;en"		4.500.000,00		937.500,00	937.500,00		170,73	200		375.000,00	375.000,00					562.500,00	562.500,00				6100
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		700.000,00		145.833,33	145.800,00		26,56	0		58.333,33	58.300,00					87.500,00	87.500,00				6120
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"		1.700.000,00		354.166,67	354.200,00		64,5	100		141.666,67	141.700,00					212.500,00	212.500,00				6121
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			1	6122	Bruecken		400.000,00		83.333,33	83.300,00		15,18	0		33.333,33	33.300,00					50.000,00	50.000,00				6122
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			1	6300	Hochwasserregulierung bei Bundesfluessen		900.000,00		187.500,00	187.500,00		34,15	0		75.000,00	75.000,00					112.500,00	112.500,00				6300
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			1	6400	"Einrichtungen und Mazslig;nahmen nach der StVO"		1.400.000,00		291.666,67	291.700,00		53,12	100		116.666,67	116.700,00					175.000,00	175.000,00				6400
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			1	6510	Sonstige Schienenwege		5.200.000,00		1.083.333,33	1.083.400,00		197,29	200		433.333,33	433.400,00					650.000,00	650.000,00				6510
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			1	7890	Foerderung von Handel, Gewerbe und Industrie		4.000.000,00		833.333,33	833.300,00		151,76	200		333.333,33	333.300,00					500.000,00	500.000,00				7890
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			1	8120	WC-Anlagen		100.000,00		20.833,33	20.800,00		3,79	0		8.333,33	8.300,00					12.500,00	12.500,00				8120
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			1	8140	"Strazslig;enreinigung"		600.000,00		125.000,00	125.000,00		22,76	0		50.000,00	50.000,00					75.000,00	75.000,00				8140
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			1	8150	oeffentliche Anlagen		2.500.000,00		520.833,33	520.800,00		94,85	100		208.333,33	208.300,00					312.500,00	312.500,00				8150
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			1	8151	Kinderspielplaetze		200.000,00		41.666,67	41.700,00		7,59	0		16.666,67	16.700,00					25.000,00	25.000,00				8151
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			1	8160	oeffentliche Beleuchtung und oeffentliche Uhren		700.000,00		145.833,33	145.800,00		26,56	0		58.333,33	58.300,00					87.500,00	87.500,00				8160
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			2	8530	Wohn- und Geschaeftsgebaeude		2.500.000,00		520.833,33	520.800,00		94,85	100		208.333,33	208.300,00					312.500,00	312.500,00				8530
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			2	8782	Seniorenzentren der Stadt Linz		900.000,00		187.500,00	187.500,00		34,15	0		75.000,00	75.000,00					112.500,00	112.500,00				8782
+Finanzunternehmen Ausland	Helaba Landesbank Hessen Thueringen			2	8994	Allgemeines oeffentliches Krankenhaus d.Stadt Linz		14.000.000,00		2.916.666,67	2.916.700,00		531,16	500		1.166.666,67	1.166.700,00					1.750.000,00	1.750.000,00				8994
+	Helaba Landesbank Hessen Thueringen Ergebnis						42000000	42.000.000,00	8750000	8.750.000,00	8.749.900,00	1593,47	1.593,47	1.500,00	3500000	3.500.000,00	3.499.900,00	0	0	0	5250000	5.250.000,00	5.250.000,00	0	0	0	
+Finanzunternehmen Ausland	SEB Hypothekenbank AG	SEB   15 028 521/01           (902-06/05/30)	Laufzeit von 1998 bis 2019	1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"	3.633.640,00	1.526.127,81	454.205,00	190.765,98	190.800,00	0	0	0	181.682,00	76.306,39	76.300,00	0			272.523,00	114.459,59	114.500,00	0			6120
+Finanzunternehmen Ausland	SEB Hypothekenbank AG			2	8532	Wohn- und Geschaeftsgebaeude nach MRG		218.018,50		27.252,31	27.300,00		0	0		10.900,93	10.900,00					16.351,38	16.400,00				8532
+Finanzunternehmen Ausland	SEB Hypothekenbank AG			2	8782	Seniorenzentren der Stadt Linz		1.889.493,69		236.186,71	236.200,00		0	0		94.474,68	94.500,00					141.712,03	141.700,00				8782
+Finanzunternehmen Ausland	SEB Hypothekenbank AG	SEB   15 045 124/01           (902-06/05/31)	Laufzeit von 1999 bis 2020	1	6510	Sonstige Schienenwege	5.000.000,00	3.997.005,88	875.000,00	699.476,03	699.500,00	82,37	65,85	100	250.000,00	199.850,29	199.900,00	0			625.000,00	499.625,74	499.600,00	0			6510
+Finanzunternehmen Ausland	SEB Hypothekenbank AG			1	8160	oeffentliche Beleuchtung und oeffentliche Uhren		1.002.994,12		175.523,97	175.500,00		16,52	0		50.149,71	50.100,00					125.374,26	125.400,00				8160
+	SEB Hypothekenbank AG Ergebnis						8633640	8.633.640,00	1329205	1.329.205,00	1.329.300,00	82,37	82,37	100	431682	431.682,00	431.700,00	0	0	0	897523	897.523,00	897.600,00	0	0	0	
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG	Schuldschein vom 11.2.2014    (902 06 21 01)	Laufzeit von 2014 bis 2034	1	310	Stadtentwicklung und Bebauungsplanung	10.000.000,00	375.000,00	10.000.000,00	375.000,00	375.000,00	350.000,00	13.125,00	13.100,00	0						10.000.000,00	375.000,00	375.000,00	0			310
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	2100	Allgemeinbildende Pflichtschulen		77.774,44		77.774,44	77.800,00		2.722,11	2.700,00								77.774,44	77.800,00				2100
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	2730	Stadtbibliothek Linz		51.191,09		51.191,09	51.200,00		1.791,69	1.800,00								51.191,09	51.200,00				2730
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	3500	ARS ELECTRONICA CENTER - Museum d. 21.Jahrhunderts		80.000,00		80.000,00	80.000,00		2.799,98	2.800,00								80.000,00	80.000,00				3500
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	4290	Volkshaeuser		370.049,77		370.049,77	370.000,00		12.951,74	13.000,00								370.049,77	370.000,00				4290
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	4890	Foerderung des Wohnbaues und Altwohnhausbesitzes		625.887,08		625.887,08	625.900,00		21.906,05	21.900,00								625.887,08	625.900,00				4890
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	5010	Technik und Umwelt		394.650,75		394.650,75	394.700,00		13.812,78	13.800,00								394.650,75	394.700,00				5010
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	6100	"Bundesstrazslig;en"		400.000,00		400.000,00	400.000,00		14.000,00	14.000,00								400.000,00	400.000,00				6100
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	6110	"Landesstrazslig;en"		12.739,35		12.739,35	12.700,00		445,88	400								12.739,35	12.700,00				6110
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		1.262.296,29		1.262.296,29	1.262.300,00		44.180,37	44.100,00								1.262.296,29	1.262.300,00				6120
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"		17.622,46		17.622,46	17.600,00		616,79	600								17.622,46	17.600,00				6121
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	6122	Bruecken		284.529,27		284.529,27	284.500,00		9.958,52	10.000,00								284.529,27	284.500,00				6122
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	6300	Hochwasserregulierung bei Bundesfluessen		231.304,11		231.304,11	231.300,00		8.095,64	8.100,00								231.304,11	231.300,00				6300
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	6400	"Einrichtungen und Mazslig;nahmen nach der StVO"		162.074,75		162.074,75	162.100,00		5.672,62	5.700,00								162.074,75	162.100,00				6400
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	7890	Foerderung von Handel, Gewerbe und Industrie		53.991,93		53.991,93	54.000,00		1.889,72	1.900,00								53.991,93	54.000,00				7890
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	8120	WC-Anlagen		45.000,00		45.000,00	45.000,00		1.575,00	1.600,00								45.000,00	45.000,00				8120
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	8140	"Strazslig;enreinigung"		448.894,22		448.894,22	448.900,00		15.711,30	15.700,00								448.894,22	448.900,00				8140
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	8150	oeffentliche Anlagen		568.000,00		568.000,00	568.000,00		19.880,00	19.900,00								568.000,00	568.000,00				8150
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	8151	Kinderspielplaetze		10.000,00		10.000,00	10.000,00		350	400								10.000,00	10.000,00				8151
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			1	9140	Beteiligungen		607.280,49		607.280,49	607.300,00		21.254,82	21.300,00								607.280,49	607.300,00				9140
+Finanzunternehmen Ausland	Sueddeutsche Krankenversicherung AG			4	9500	Aufgenommene Darlehen,Schuldendienst		3.921.714,00		3.921.714,00	3.921.700,00		137.259,99	137.200,00								3.921.714,00	3.921.700,00				9500
+	Sueddeutsche Krankenversicherung AG Ergebnis						10000000	10.000.000,00	10000000	10.000.000,00	10.000.000,00	350000	350.000,00	350.000,00	0	0	0	0	0	0	10000000	10.000.000,00	10.000.000,00	0	0	0	
+Finanzunternehmen Ausland	Sueddeutsche Lebensversicherung a.G.	Schuldschein vom 26.6.2014     (902 06 22 01)	Laufzeit von 2014 bis 2039	1	290	Amtsgebaeude	5.000.000,00	2.675.311,55	5.000.000,00	2.675.311,55	2.675.300,00	150.000,00	80.259,35	80.200,00	0						5.000.000,00	2.675.311,55	2.675.300,00	0			290
+Finanzunternehmen Ausland	Sueddeutsche Lebensversicherung a.G.			1	310	Stadtentwicklung und Bebauungsplanung		2.299.688,45		2.299.688,45	2.299.700,00		68.990,65	69.000,00								2.299.688,45	2.299.700,00				310
+Finanzunternehmen Ausland	Sueddeutsche Lebensversicherung a.G.			1	9500	Aufgenommene Darlehen,Schuldendienst		25.000,00		25.000,00	25.000,00		750	800								25.000,00	25.000,00				9500
+	Sueddeutsche Lebensversicherung a.G. Ergebnis						5000000	5.000.000,00	5000000	5.000.000,00	5.000.000,00	150000	150.000,00	150.000,00	0	0	0	0	0	0	5000000	5.000.000,00	5.000.000,00	0	0	0	
+Finanzunternehmen Ausland	Versorgungswerk der aerztekammer	Schuldschein  vom 26.6.2014     (902 06 22 01)	Laufzeit von 2014 bis 2039	1	290	Amtsgebaeude	5.000.000,00	2.675.311,55	5.000.000,00	2.675.311,55	2.675.300,00	150.000,00	80.259,35	80.200,00	0						5.000.000,00	2.675.311,55	2.675.300,00	0			290
+Finanzunternehmen Ausland	Versorgungswerk der aerztekammer			1	310	Stadtentwicklung und Bebauungsplanung		2.299.688,45		2.299.688,45	2.299.700,00		68.990,65	69.000,00								2.299.688,45	2.299.700,00				310
+Finanzunternehmen Ausland	Versorgungswerk der aerztekammer			1	9500	Aufgenommene Darlehen,Schuldendienst		25.000,00		25.000,00	25.000,00		750	800								25.000,00	25.000,00				9500
+	Versorgungswerk der aerztekammer Ergebnis						5000000	5.000.000,00	5000000	5.000.000,00	5.000.000,00	150000	150.000,00	150.000,00	0	0	0	0	0	0	5000000	5.000.000,00	5.000.000,00	0	0	0	
+Finanzunternehmen Ausland	Volkswohl Bund Lebensversicherung	Schuldschein vom 22.1.2015     (902 06 22 06)	Laufzeit von 2015 bis 2055	1	9500	Aufgenommene Darlehen,Schuldendienst	30.000.000,00	150.000,00	30.000.000,00	150.000,00	150.000,00	855.000,00	4.275,00	4.300,00	0						30.000.000,00	150.000,00	150.000,00	0			9500
+Finanzunternehmen Ausland	Volkswohl Bund Lebensversicherung			1	9510	Aufgenommene Anleihen,Schuldendienst		29.850.000,00		29.850.000,00	29.850.000,00		850.725,00	850.700,00								29.850.000,00	29.850.000,00				9510
+	Volkswohl Bund Lebensversicherung Ergebnis						30000000	30.000.000,00	30000000	30.000.000,00	30.000.000,00	855000	855.000,00	855.000,00	0	0	0	0	0	0	30000000	30.000.000,00	30.000.000,00	0	0	0	
+Planung Finanzunternehmen	Mittelanmeldung	Sonstige-Darlehensaufnahme fuer Haushaltsjahr 2017 	Laufzeit von 2017 bis 2032	1	161	Geodaten	41.059.500,00	13.500,00				516.095,10	169,69	200				41.059.500,00	13.500,00	13.500,00	41.059.500,00	13.500,00	13.500,00				161
+Planung Finanzunternehmen	Mittelanmeldung			1	290	Amtsgebaeude		113.500,00					1.426,63	1.400,00					113.500,00	113.500,00		113.500,00	113.500,00				290
+Planung Finanzunternehmen	Mittelanmeldung			1	311	Verkehrsplanung		75.000,00					942,71	900					75.000,00	75.000,00		75.000,00	75.000,00				311
+Planung Finanzunternehmen	Mittelanmeldung			1	610	Sonstige Subventionen		870.000,00					10.935,42	10.900,00					870.000,00	870.000,00		870.000,00	870.000,00				610
+Planung Finanzunternehmen	Mittelanmeldung			1	1620	Berufsfeuerwehr		265.900,00					3.342,22	3.300,00					265.900,00	265.900,00		265.900,00	265.900,00				1620
+Planung Finanzunternehmen	Mittelanmeldung			1	1790	Katastrophenschutz		10.000,00					125,69	100					10.000,00	10.000,00		10.000,00	10.000,00				1790
+Planung Finanzunternehmen	Mittelanmeldung			1	2100	Allgemeinbildende Pflichtschulen		172.100,00					2.163,20	2.200,00					172.100,00	172.100,00		172.100,00	172.100,00				2100
+Planung Finanzunternehmen	Mittelanmeldung			1	2290	"Sonst.Einrichtungen u.Mazslig;nahmen-berufsbildender Unterricht"		500.000,00					6.284,72	6.300,00					500.000,00	500.000,00		500.000,00	500.000,00				2290
+Planung Finanzunternehmen	Mittelanmeldung			1	2500	Schuelerhorte		10.000,00					125,69	100					10.000,00	10.000,00		10.000,00	10.000,00				2500
+Planung Finanzunternehmen	Mittelanmeldung			1	2620	Sportplaetze		90.000,00					1.131,25	1.100,00					90.000,00	90.000,00		90.000,00	90.000,00				2620
+Planung Finanzunternehmen	Mittelanmeldung			2	2690	Koerperliche Ertuechtigung		21.500,00					270,24	300					21.500,00	21.500,00		21.500,00	21.500,00				2690
+Planung Finanzunternehmen	Mittelanmeldung			1	2700	Volkshochschule Linz		1.099.600,00					13.821,36	13.800,00					1.099.600,00	1.099.600,00		1.099.600,00	1.099.600,00				2700
+Planung Finanzunternehmen	Mittelanmeldung			1	2730	Stadtbibliothek Linz		46.300,00					581,97	600					46.300,00	46.300,00		46.300,00	46.300,00				2730
+Planung Finanzunternehmen	Mittelanmeldung			1	2800	Foerderung von Universitaeten und Hochschulen		463.700,00					5.828,45	5.800,00					463.700,00	463.700,00		463.700,00	463.700,00				2800
+Planung Finanzunternehmen	Mittelanmeldung			1	2890	Naturkundliche Station		90.000,00					1.131,25	1.100,00					90.000,00	90.000,00		90.000,00	90.000,00				2890
+Planung Finanzunternehmen	Mittelanmeldung			1	3200	Musikschule der Stadt Linz		15.800,00					198,6	200					15.800,00	15.800,00		15.800,00	15.800,00				3200
+Planung Finanzunternehmen	Mittelanmeldung			1	3290	"Sonst.Einrichtungen u.Mazslig;nahmen-Musik u.darstellende Kunst"		1.067.400,00					13.416,62	13.400,00					1.067.400,00	1.067.400,00		1.067.400,00	1.067.400,00				3290
+Planung Finanzunternehmen	Mittelanmeldung			1	3400	Museen der Stadt Linz		1.222.000,00					15.359,86	15.400,00					1.222.000,00	1.222.000,00		1.222.000,00	1.222.000,00				3400
+Planung Finanzunternehmen	Mittelanmeldung			1	3500	ARS ELECTRONICA CENTER - Museum d. 21.Jahrhunderts		250.000,00					3.142,36	3.100,00					250.000,00	250.000,00		250.000,00	250.000,00				3500
+Planung Finanzunternehmen	Mittelanmeldung			1	3510	Kunst- und Kulturfoerderung		111.700,00					1.404,01	1.400,00					111.700,00	111.700,00		111.700,00	111.700,00				3510
+Planung Finanzunternehmen	Mittelanmeldung			1	3630	Altstadterhaltung und Ortsbildpflege	 	2.160.000,00					27.150,00	27.200,00					2.160.000,00	2.160.000,00		2.160.000,00	2.160.000,00				3630
+Planung Finanzunternehmen	Mittelanmeldung			1	4010	Soziales-, Jugend und Familie		20.000,00					251,39	300					20.000,00	20.000,00		20.000,00	20.000,00				4010
+Planung Finanzunternehmen	Mittelanmeldung		 	1	4111	Geschlossene Sozialhilfe		1.337.000,00					16.805,35	16.800,00					1.337.000,00	1.337.000,00		1.337.000,00	1.337.000,00				4111
+Planung Finanzunternehmen	Mittelanmeldung			1	4290	Volkshaeuser		468.600,00					5.890,04	5.900,00					468.600,00	468.600,00		468.600,00	468.600,00				4290
+Planung Finanzunternehmen	Mittelanmeldung			1	4300	Krabbelstuben		25.000,00					314,24	300					25.000,00	25.000,00		25.000,00	25.000,00				4300
+Planung Finanzunternehmen	Mittelanmeldung			1	4890	Foerderung des Wohnbaues und Altwohnhausbesitzes		313.100,00					3.935,49	3.900,00					313.100,00	313.100,00		313.100,00	313.100,00				4890
+Planung Finanzunternehmen	Mittelanmeldung			1	5010	Technik und Umwelt		170.000,00					2.136,81	2.100,00					170.000,00	170.000,00		170.000,00	170.000,00				5010
+Planung Finanzunternehmen	Mittelanmeldung			1	5230	Laermbekaempfung		3.000,00					37,71	0					3.000,00	3.000,00		3.000,00	3.000,00				5230
+Planung Finanzunternehmen	Mittelanmeldung			1	6100	"Bundesstrazslig;en"		375.200,00					4.716,06	4.700,00					375.200,00	375.200,00		375.200,00	375.200,00				6100
+Planung Finanzunternehmen	Mittelanmeldung			1	6110	"Landesstrazslig;en"		297.900,00					3.744,44	3.700,00					297.900,00	297.900,00		297.900,00	297.900,00				6110
+Planung Finanzunternehmen	Mittelanmeldung			1	6120	"Gemeindestrazslig;en - Strazslig;enerhaltung"		675.000,00					8.484,37	8.500,00					675.000,00	675.000,00		675.000,00	675.000,00				6120
+Planung Finanzunternehmen	Mittelanmeldung			1	6121	"Gemeindestrazslig;en - Strazslig;enneubau"		3.800.000,00					47.763,89	47.800,00					3.800.000,00	3.800.000,00		3.800.000,00	3.800.000,00				6121
+Planung Finanzunternehmen	Mittelanmeldung			1	6122	Bruecken		170.000,00					2.136,81	2.100,00					170.000,00	170.000,00		170.000,00	170.000,00				6122
+Planung Finanzunternehmen	Mittelanmeldung			1	6290	"Allgemeiner Wasserbau, sonstige Mazslig;nahmen"		60.000,00					754,17	800					60.000,00	60.000,00		60.000,00	60.000,00				6290
+Planung Finanzunternehmen	Mittelanmeldung			1	6390	Uferschutzbauten,Bachregulierung,Gewaesseraufsicht		140.000,00					1.759,72	1.800,00					140.000,00	140.000,00		140.000,00	140.000,00				6390
+Planung Finanzunternehmen	Mittelanmeldung			1	6400	"Einrichtungen und Mazslig;nahmen nach der StVO"		711.900,00					8.948,19	8.900,00					711.900,00	711.900,00		711.900,00	711.900,00				6400
+Planung Finanzunternehmen	Mittelanmeldung			1	7890	Foerderung von Handel, Gewerbe und Industrie		20.000,00					251,39	300					20.000,00	20.000,00		20.000,00	20.000,00				7890
+Planung Finanzunternehmen	Mittelanmeldung			1	8140	"Strazslig;enreinigung"		620.000,00					7.793,06	7.800,00					620.000,00	620.000,00		620.000,00	620.000,00				8140
+Planung Finanzunternehmen	Mittelanmeldung			1	8150	oeffentliche Anlagen		1.000.000,00					12.569,44	12.600,00					1.000.000,00	1.000.000,00		1.000.000,00	1.000.000,00				8150
+Planung Finanzunternehmen	Mittelanmeldung			1	8151	Kinderspielplaetze		98.000,00					1.231,81	1.200,00					98.000,00	98.000,00		98.000,00	98.000,00				8151
+Planung Finanzunternehmen	Mittelanmeldung			1	8160	oeffentliche Beleuchtung und oeffentliche Uhren		260.000,00					3.268,06	3.300,00					260.000,00	260.000,00		260.000,00	260.000,00				8160
+Planung Finanzunternehmen	Mittelanmeldung			1	8300	Botanischer Garten		40.000,00					502,78	500					40.000,00	40.000,00		40.000,00	40.000,00				8300
+Planung Finanzunternehmen	Mittelanmeldung			2	8590	Maerkte		40.000,00					502,78	500					40.000,00	40.000,00		40.000,00	40.000,00				8590
+Planung Finanzunternehmen	Mittelanmeldung			2	8790	Linz AG		7.072.800,00					88.901,17	88.900,00					7.072.800,00	7.072.800,00		7.072.800,00	7.072.800,00				8790
+Planung Finanzunternehmen	Mittelanmeldung			2	8993	Immobilien Linz GmbH		11.549.900,00					145.175,83	145.200,00					11.549.900,00	11.549.900,00		11.549.900,00	11.549.900,00				8993
+Planung Finanzunternehmen	Mittelanmeldung			2	8995	Informations- und Kommunikationstechnologie		269.100,00					3.382,39	3.400,00					269.100,00	269.100,00		269.100,00	269.100,00				8995
+Planung Finanzunternehmen	Mittelanmeldung			1	9001	Finanzen und Wirtschaft	 	200.000,00					2.513,89	2.500,00					200.000,00	200.000,00		200.000,00	200.000,00				9001
+Planung Finanzunternehmen	Mittelanmeldung			1	9140	Beteiligungen		2.455.000,00					30.857,99	30.900,00					2.455.000,00	2.455.000,00		2.455.000,00	2.455.000,00				9140
+Planung Finanzunternehmen	Mittelanmeldung			1	9500	Aufgenommene Darlehen,Schuldendienst		200.000,00					2.513,89	2.500,00					200.000,00	200.000,00		200.000,00	200.000,00				9500
+Planung Finanzunternehmen	Mittelanmeldung	Sonstige-Darlehensaufnahme fuer Haushaltsjahr 2017 - (Umschuldung)	Laufzeit von 2017 bis 2032	2	8530	Wohn- und Geschaeftsgebaeude	45.607.476,64	2.316.900,00	0			0	0	0	0			45.607.476,64	2.316.852,36	2.316.900,00	45.607.476,64	2.316.852,36	2.316.900,00	0			8530
+Planung Finanzunternehmen	Mittelanmeldung			2	8782	Seniorenzentren der Stadt Linz		3.243.600,00					0	0					3.243.592,99	3.243.600,00		3.243.592,99	3.243.600,00				8782
+Planung Finanzunternehmen	Mittelanmeldung			2	8950	Design Center Linz		40.047.000,00					0	0					40.047.031,29	40.047.000,00		40.047.031,29	40.047.000,00				8950
+	Mittelanmeldung Ergebnis						86666976,64	86.667.000,00	0	0	0	516095,1	516.095,10	516.000,00	0	0	0	86666976,64	86.666.976,64	86.667.000,00	86666976,64	86.666.976,64	86.667.000,00	0	0	0	
+																											
+	Gesamtergebnis						1105712624	1.095.816.168,44	777969254,6	777.969.254,55	777.970.600,00	16412466,32	16.412.466,32	16.412.700,00	102871385	102.871.384,97	102.871.700,00	86666976,64	86.666.976,64	86.667.000,00	761764846,2	761.764.846,22	761.765.900,00	1618349,73	1.618.349,73	1.618.400,00	
+																	*)			*)							
+																											
+																											
+																											
+																											
+			Summe	1				823.201.206,37			633.274.500,00			13.663.400,00	36.499.800,00		45.719.100,00			22.106.200,00	620.356.700,00		609.661.600,00			34.300,00	
+			Summe	2				235.403.098,84			117.885.600,00			2.082.100,00	9.977.500,00		54.661.600,00			64.560.800,00	123.208.500,00		127.784.800,00			47.300,00	
+			Summe	1+2				1.058.604.305,21			751.160.100,00			15.745.500,00	46.477.300,00		100.380.700,00			86.667.000,00	743.565.200,00		737.446.400,00			81.600,00	
+			Summe	3				0			0			0	0		0			0			0			0	
+			Summe	4				37.211.839,87			26.810.500,00			667.200,00	2.908.300,00		2.491.000,00			0	34.492.500,00		24.319.500,00			1.536.800,00	
+			GESAMTERGEBNIS					1.095.816.145,08	0	0	777.970.600,00	0	0	16.412.700,00	49.385.600,00	0	102.871.700,00	0	0	86.667.000,00	778.057.700,00	0	761.765.900,00		0	1.618.400,00	
+																											
+																											
+	Erlaeuterung:                    Schuldenart 1:	Schulden, deren Schuldendienst mehr als zur 				Schuldenart 3:	Schuldenart 3:	Schulden, die fuer andere Gebietskoerperschaften				17.234.600,00					*) davon 45,6075 Mio. EUR Umschuldung 										
+		Haelfte aus allgemeinen Deckungsmitteln						aufgenommen worden sind und deren																			
+		getragen wird.						Schuldendienst mindestens zur Haelfte erstattet wird.																			
+																											
+	Schuldenart 2:	Schulden fuer Einrichtungen der Gebiets-																									
+		koerperschaft, bei denen jaehrlich ordentliche				Schuldenart 4:	Schuldenart 4:	Schulden, die fuer sonstige Rechtstraeger								 											
+		Einnahmen in der Hoehe von mindestens 50%						(physische oder juristische Personen) aufgenommen 																			
+		der ordentlichen Ausgaben erzielt werden.						worden sind und deren Schuldendienst 																			
+								mindestens zur Haelfte erstattet wird.																			
