@@ -72,7 +72,7 @@
     </section>
     <section>
       <h3>Creditor: <span id="selectedCreditor"></span></h3>
-      <svg id="creditor"></svg>
+      <svg id="creditor" style="display: block; margin: auto;"></svg>
       <div id="usage">
         <strong>Usage:</strong>
         
@@ -175,7 +175,7 @@
         // both old and new elements
         rect.merge(rect_enter).transition()
           .attr('height', (d) => height - yscale(d.value))
-          .attr('width', (d) => xscale.bandwidth())
+          .attr('width', (d) => new_data.length > 3 ? xscale.bandwidth() : 50)
           .attr('x', (d) => xscale(d.key))
           .attr('y', (d) =>  yscale(d.value))
           .attr('class', svgSelector.replace('#', ''));
