@@ -75,7 +75,9 @@
       <svg id="creditor" style="display: block; margin: auto;"></svg>
       <div id="usage">
         <strong>Usage:</strong>
-        
+        <select id="usageFilter">
+          <option value="first" selected>choose</option>
+        </select>
       </div>
     </section>
   </main>
@@ -86,17 +88,21 @@
       data: [],
       selectedGroup: null,
       selectedCreditor: null,
+      selectedColor: null,
+      filter: null,
       showData: "Jahresende aufgeteilt"
     };
+
+    const cscale = d3.scaleOrdinal(d3.schemeSet3);
     
-    function createBarChart(svgSelector, stateAttr = null) {
+    function createBarChart(svgSelector, stateAttr = null, isLast = false, applyColorFilter = false) {
       const margin = {
         top: 10,
         bottom: 150,
         left: 120,
         right: 20
       };
-      const width = 600 - margin.left - margin.right;
+      const width = isLast === false ? 700 - margin.left - margin.right : 1300 - margin.left - margin.right;
       const height = 400 - margin.top - margin.bottom;
 
       // Creates sources <svg> element
@@ -128,6 +134,7 @@
       const g_yaxis = g.append('g').attr('class', 'y axis');
 
       function update(new_data) {
+        cscale.domain(new_data.map((d) => d.key));
 
         //update the scales
         xscale.domain(new_data.map((d) => d.key));
@@ -161,6 +168,7 @@
               d3.selectAll(svgSelector.replace('#', '.')).style('opacity', 1);
             } else {
               state[stateAttr] = d.key;
+              state.selectedColor = d3.select(this).style("fill");
                 // set opacity of all bars except selected
                 d3.selectAll(svgSelector.replace('#', '.')).style('opacity', 0.5);
                 d3.select(this).style('opacity', 1.0);
@@ -178,7 +186,10 @@
           .attr('width', (d) => new_data.length > 3 ? xscale.bandwidth() : 50)
           .attr('x', (d) => xscale(d.key))
           .attr('y', (d) =>  yscale(d.value))
-          .attr('class', svgSelector.replace('#', ''));
+          .attr('class', svgSelector.replace('#', ''))
+          .style('fill', (d) => state.selectedGroup && applyColorFilter 
+            ? state.selectedColor
+            : state.selectedCreditor && applyColorFilter ? state.selectedColor : cscale(d.value));
 
         rect.merge(rect_enter).select('title').text((d) => `${d.key}: ${d.value}`);
 
@@ -193,10 +204,11 @@
     /////////////////////////
 
     const cGroupsBarChart = createBarChart('#cgroups', 'selectedGroup');
-    const cGroupBarChart = createBarChart('#cgroup', 'selectedCreditor');
-    const creditorBarChart = createBarChart('#creditor');
+    const cGroupBarChart = createBarChart('#cgroup', 'selectedCreditor', false, true);
+    const creditorBarChart = createBarChart('#creditor',"" , true, true);
 
     function filterData() {
+      console.log(state.filter)
       return state.data.filter((d) => {
         if (state.selectedGroup && d.Kreditgruppe !== state.selectedGroup) {
           return false;
@@ -212,44 +224,62 @@
       return d3.sum(v, function(d) { return d[propertyName] });
     }
 
-    function groupEmptyByName(property, name) {
-      return property !== "" ? property : name;
-    }
-
     function updateUsageFilter(creditorBarData) {
+      d3.select('#usageFilter').html("");
+      d3.select('#usageFilter')
+      .append('option')
+      .text('all')
+      .attr('value', 'all')
+      .text('all')
+
       creditorBarData.forEach((d) => 
-        d3.select('#usage')
-          .append('label')
+        d3.select('#usageFilter')
+          .append('option')
           .text(d.key)
-            .append('input')
-            .attr('type', 'checkbox')
-            .attr('name', d.key)
             .attr('value', d.key)
             .text(d.key)); 
+
+      document.getElementById('#usageFilte').value = state.filter;
+
     }
+
+      d3.select('#usageFilter').on('change', function () {
+        console.log("test")
+      const selected = d3.select(this).property('value');
+      state.filter = selected;
+      updateApp();
+    });
 
     function wrangleData(allData, filtered) {
       const cGroupsBarData = d3.nest()
-        .key(function(d) { return groupEmptyByName(d.Kreditgruppe, "None") })
+        .key(function(d) { return d.Kreditgruppe })
         .rollup(function(v) {
           return sumDataBy(v, state.showData);
         })
-        .entries(allData);
+        .entries(allData)
+        ;
 
       const cGroupBarData = d3.nest()
-        .key(function(d) { return groupEmptyByName(d.Glaeubiger, "Unknown")})
+        .key(function(d) { return d.Glaeubiger})
         .rollup(function(v) {
           return sumDataBy(v, state.showData);
         })
         .entries(filtered);
 
       const creditorBarData = d3.nest()
-        .key(function(d) { return groupEmptyByName(d.Verwendung, "Unknown")})
+        .key(function(d) { return d.Verwendung})
         .rollup(function(v) {
           return sumDataBy(v, state.showData);
         })
         .entries(filtered);
 
+      return sortData([cGroupsBarData, cGroupBarData, creditorBarData]);
+    }
+
+    function sortData(data){
+      const cGroupsBarData = data[0].sort(function(x, y){return d3.ascending(x.key, y.key)});
+      const cGroupBarData = data[1].sort(function(x, y){return d3.ascending(x.key, y.key)});
+      const creditorBarData = data[2].sort(function(x, y){return d3.ascending(x.key, y.key)});
       return [cGroupsBarData, cGroupBarData, creditorBarData];
     }
 
@@ -259,14 +289,15 @@
 
     function updateApp() {
       const filtered = filterData();
-
+      
       const [cGroupsBarData, cGroupBarData, creditorBarData] = wrangleData(state.data, filtered);
+
       cGroupsBarChart(cGroupsBarData);
       cGroupBarChart(cGroupBarData);
       creditorBarChart(creditorBarData);
 
-      d3.select('#selectedGroup').text(state.selectedGroup || '-');
-      d3.select('#selectedCreditor').text(state.selectedCreditor || '-');
+      d3.select('#selectedGroup').text(state.selectedGroup || 'Alle');
+      d3.select('#selectedCreditor').text(state.selectedCreditor || 'Alle');
 
       updateUsageFilter(creditorBarData);
     }
@@ -289,13 +320,7 @@
         row["Zuzaehlung aufgeteilt"] = parseFloat(formatNumber(row["Zuzaehlung aufgeteilt"]));
         row["urspruengl. Schuld"] = parseFloat(formatNumber(row["urspruengl. Schuld"]));
         return row;
-      });
-      console.log(state.data[0]);
-      updateApp();
-    });
-
-    d3.select('#show-data').on('change', function () {
-      state.showData = d3.select(this).property('value');
+      }).filter(function(d) {return d.Kreditgruppe !== ""});
       updateApp();
     });
   </script>
