@@ -59,6 +59,12 @@
         <option value="Jahresende aufgeteilt" selected>Jahresende aufgeteilt</option>
         <option value="Jahresanfang aufgeteilt">Jahresanfang aufgeteilt</option>
       </select>
+      <div id="usage">
+        <strong>Usage:</strong>
+        <select id="usageFilter">
+          <option value="first" selected>choose</option>
+        </select>
+      </div>
     </div>
 
   <main>
@@ -73,12 +79,6 @@
     <section>
       <h3>Creditor: <span id="selectedCreditor"></span></h3>
       <svg id="creditor" style="display: block; margin: auto;"></svg>
-      <div id="usage">
-        <strong>Usage:</strong>
-        <select id="usageFilter">
-          <option value="first" selected>choose</option>
-        </select>
-      </div>
     </section>
   </main>
 
@@ -89,7 +89,8 @@
       selectedGroup: null,
       selectedCreditor: null,
       selectedColor: null,
-      filter: null,
+      filter: 'all',
+      first: true,
       showData: "Jahresende aufgeteilt"
     };
 
@@ -162,6 +163,8 @@
           
         if (stateAttr !== null) {
           rect_enter.on('click', function(d) {
+          document.getElementById('usageFilter').value =  'all';
+            state.filter = 'all'
             if (state[stateAttr] === d.key) {
               state[stateAttr] = null;
               // reset opacity of all bars
@@ -208,8 +211,11 @@
     const creditorBarChart = createBarChart('#creditor',"" , true, true);
 
     function filterData() {
-      console.log(state.filter)
       return state.data.filter((d) => {
+        if(state.filter !== 'all' && d.Verwendung !== state.filter)
+        {
+          return false;
+        }
         if (state.selectedGroup && d.Kreditgruppe !== state.selectedGroup) {
           return false;
         }
@@ -239,24 +245,30 @@
             .attr('value', d.key)
             .text(d.key)); 
 
-      document.getElementById('#usageFilte').value = state.filter;
-
+      document.getElementById('usageFilter').value = state.filter ? state.filter : 'all';
     }
 
       d3.select('#usageFilter').on('change', function () {
-        console.log("test")
       const selected = d3.select(this).property('value');
       state.filter = selected;
+      state.selectedGroup = null;
+      state.selectedCreditor = null;
       updateApp();
     });
 
     function wrangleData(allData, filtered) {
-      const cGroupsBarData = d3.nest()
+      const cGroupsBarData = state.filter === 'all' ? d3.nest()
         .key(function(d) { return d.Kreditgruppe })
         .rollup(function(v) {
           return sumDataBy(v, state.showData);
         })
         .entries(allData)
+        : d3.nest()
+        .key(function(d) { return d.Kreditgruppe })
+        .rollup(function(v) {
+          return sumDataBy(v, state.showData);
+        })
+        .entries(filtered)
         ;
 
       const cGroupBarData = d3.nest()
@@ -299,7 +311,10 @@
       d3.select('#selectedGroup').text(state.selectedGroup || 'Alle');
       d3.select('#selectedCreditor').text(state.selectedCreditor || 'Alle');
 
-      updateUsageFilter(creditorBarData);
+      if(state.first){
+         updateUsageFilter(creditorBarData)
+         state.first = false
+      }
     }
 
     d3.tsv('dataset.tsv').then((parsed) => {
