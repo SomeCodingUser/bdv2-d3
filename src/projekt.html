@@ -62,7 +62,6 @@
       <div id="usage">
         <strong>Usage:</strong>
         <select id="usageFilter">
-          <option value="first" selected>choose</option>
         </select>
       </div>
     </div>
@@ -231,7 +230,6 @@
     }
 
     function updateUsageFilter(creditorBarData) {
-      d3.select('#usageFilter').html("");
       d3.select('#usageFilter')
       .append('option')
       .text('all')
@@ -248,14 +246,6 @@
       document.getElementById('usageFilter').value = state.filter ? state.filter : 'all';
     }
 
-      d3.select('#usageFilter').on('change', function () {
-      const selected = d3.select(this).property('value');
-      state.filter = selected;
-      state.selectedGroup = null;
-      state.selectedCreditor = null;
-      updateApp();
-    });
-
     function wrangleData(allData, filtered) {
       const cGroupsBarData = state.filter === 'all' ? d3.nest()
         .key(function(d) { return d.Kreditgruppe })
@@ -268,8 +258,7 @@
         .rollup(function(v) {
           return sumDataBy(v, state.showData);
         })
-        .entries(filtered)
-        ;
+        .entries(filtered);
 
       const cGroupBarData = d3.nest()
         .key(function(d) { return d.Glaeubiger})
@@ -336,6 +325,20 @@
         row["urspruengl. Schuld"] = parseFloat(formatNumber(row["urspruengl. Schuld"]));
         return row;
       }).filter(function(d) {return d.Kreditgruppe !== ""});
+      updateApp();
+    });
+
+    //interactivity
+    d3.select('#show-data').on('change', function () {
+      state.showData = d3.select(this).property('value');
+      updateApp();
+    });
+
+    d3.select('#usageFilter').on('change', function () {
+      const selected = d3.select(this).property('value');
+      state.filter = selected;
+      state.selectedGroup = null;
+      state.selectedCreditor = null;
       updateApp();
     });
   </script>
