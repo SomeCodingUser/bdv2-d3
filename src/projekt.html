@@ -90,7 +90,8 @@
       selectedColor: null,
       filter: 'all',
       first: true,
-      showData: "Jahresende aufgeteilt"
+      showData: "Jahresende aufgeteilt",
+      colors: new Array(),
     };
 
     const cscale = d3.scaleOrdinal(d3.schemeSet3);
@@ -189,9 +190,15 @@
           .attr('x', (d) => xscale(d.key))
           .attr('y', (d) =>  yscale(d.value))
           .attr('class', svgSelector.replace('#', ''))
-          .style('fill', (d) => state.selectedGroup && applyColorFilter 
+          .style('fill', (d) => {
+            if(!state.colors[d.key])
+            {
+              state.colors[d.key] = cscale(d.value);
+            }
+            return state.selectedGroup && applyColorFilter 
             ? state.selectedColor
-            : state.selectedCreditor && applyColorFilter ? state.selectedColor : cscale(d.value));
+            : state.selectedCreditor && applyColorFilter ? state.selectedColor : state.colors[d.key]
+          });
 
         rect.merge(rect_enter).select('title').text((d) => `${d.key}: ${d.value}`);
 
